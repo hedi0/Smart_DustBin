@@ -69,3 +69,118 @@ void setup() {
 }
 
 // Main loop - runs repeatedly after setup
+void loop() {
+  // Brief LED flash to indicate wake cycle
+  digitalWrite(powerLED, HIGH);
+  delay(10);
+  digitalWrite(powerLED, LOW);
+  
+  // Check battery voltage periodically
+  if (wakeCount % BATTERY_CHECK_INTERVAL == 0) {
+    checkBattery();
+  }
+  
+  // Only operate if battery level is sufficient
+  if (!lowBattery) {
+    // Measure distance to nearest object
+    long distance = measureDistance();
+    
+    // Check if object is within detection range
+    if (distance > 0 && distance <= DETECTION_DISTANCE) {
+      // Power up servo and attach it
+      lidServo.attach(servoPin);
+      delay(50);  // Wait for servo to initialize
+      
+      // Open the lid
+      openLid();
+      lastOpenTime = millis();
+      lidOpenCount++;
+      
+      // Monitor while lid is open
+      while (isOpen) {
+        // Check if it's time to close the lid
+        if (millis() - lastOpenTime > CLOSE_DELAY) {
+          closeLid();
+          detachServo();      // Detach to save power
+          break;
+        }
+        
+        // Check if object is still present
+        distance = measureDistance();
+        if (distance > 0 && distance <= DETECTION_DISTANCE) {
+          // Reset timer if object is still there
+          lastOpenTime = millis();
+        }
+        
+        delay(100);  // Small delay between checks
+      }
+    } else {
+      // No object detected, power down servo
+      detachServo();
+    }
+  } else {
+    // Low battery mode - warn user with LED blinks
+    blinkLowBatteryWarning();
+  }
+  
+  // Increment wake counter and enter deep sleep
+  wakeCount++;
+  enterDeepSleep();
+}
+
+// Measure distance using ultrasonic sensor
+long measureDistance() {
+  // Enable ADC for measurement
+  power_adc_enable();
+  
+  // Reset measurement flags
+  pulseReceived = false;
+  echoTimeout = false;
+  
+  // Send 10µs trigger pulse
+  digitalWrite(trigPin, LOW);
+  delayMicroseconds(2);
+  digitalWrite(trigPin, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(trigPin, LOW);
+  
+  // Wait for echo with timeout (30ms = ~5m range)
+  unsigned long startTime = micros();
+  while (!pulseReceived && !echoTimeout) {
+    if (micros() - startTime > 30000) {
+      echoTimeout = true;
+      break;
+    }
+  }
+  
+  // Disable ADC to save power
+  power_adc_disable();
+  
+  // Return -1 if measurement failed
+  if (echoTimeout || !pulseReceived) {
+    return -1;
+  }
+  
+  // Calculate distance from pulse duration
+  unsigned long duration = pulseEnd - pulseStart;
+  long distance = duration * 0.0343 / 2;  // Speed of sound = 343 m/s
+  
+  // Filter unrealistic values (2-400 cm range)
+  if (distance < 2 || distance > 400) {
+    return -1;
+  }
+  
+  return distance;
+}
+
+// Interrupt handler for echo pin state changes
+void echoInterrupt() {
+  if (digitalRead(echoPin) == HIGH) {
+    // Echo pulse started - record start time
+    pulseStart = micros();
+  } else {
+    // Echo pulse ended - record end time
+    pulseEnd = micros();
+    pulseReceived = true;
+  }
+}
