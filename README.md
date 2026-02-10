@@ -31,3 +31,6 @@ Ensure you have the following installed:
 *   **Arduino IDE (Recommended for Embedded):** Download and install the [Arduino IDE](https://www.arduino.cc/en/software).
 *   **Board Support Package:** Install the necessary board support package for your target microcontroller (e.g., ESP32, ESP8266, Arduino UNO) via the Arduino IDE's Boards Manager.
 *   **Required Libraries:**
+    *   `NewPing` (for ultrasonic sensors)
+    *   `Servo` (if using a servo motor for the lid)
+    *   `IRremote` (if using IR sensors for proximity)
