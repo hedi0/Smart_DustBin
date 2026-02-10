@@ -184,3 +184,60 @@ void echoInterrupt() {
     pulseReceived = true;
   }
 }
+
+
+// Open the dustbin lid
+void openLid() {
+  if (!isOpen) {
+    lidServo.write(OPEN_ANGLE);  // Move servo to open position
+    delay(500);                  // Wait for servo to reach position
+    isOpen = true;               // Update lid state
+  }
+}
+
+// Close the dustbin lid
+void closeLid() {
+  if (isOpen) {
+    lidServo.write(CLOSE_ANGLE); // Move servo to closed position
+    delay(500);                  // Wait for servo to reach position
+    isOpen = false;              // Update lid state
+  }
+}
+
+// Detach servo to save power
+void detachServo() {
+  if (lidServo.attached()) {
+    lidServo.detach();           // Detach servo object
+    // Set pin to input to prevent power leakage
+    pinMode(servoPin, INPUT);
+    digitalWrite(servoPin, LOW);
+  }
+}
+
+// Measure battery voltage
+void checkBattery() {
+  // Enable ADC for measurement
+  power_adc_enable();
+  ADCSRA |= (1 << ADEN);  // Turn on ADC
+  
+  // Read analog value from voltage divider
+  int sensorValue = analogRead(batteryPin);
+  
+  // Convert to voltage (assumes 5V reference and 2:1 divider)
+  batteryVoltage = sensorValue * (5.0 / 1023.0) * 2.0;
+  
+  // Check if voltage is below threshold
+  lowBattery = (batteryVoltage < LOW_BATTERY_THRESHOLD);
+  
+  // Disable ADC to save power
+  ADCSRA &= ~(1 << ADEN);
+  power_adc_disable();
+}
+
+// Blink LED to indicate low battery
+void blinkLowBatteryWarning() {
+  for (int i = 0; i < 3; i++) {
+    digitalWrite(powerLED, HIGH);
+    delay(100);
+    digitalWrite(powerLED, LOW);
+    delay(100);
