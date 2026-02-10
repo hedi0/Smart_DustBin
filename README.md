@@ -20,3 +20,7 @@ An intelligent waste management system designed to optimize waste collection and
 *   **🌐 Modular Design:** Built with a modular architecture in C++, allowing for easy customization and integration of additional sensors or features.
 
 ## 🛠️ Installation Guide
+
+To get your Smart_DustBin project up and running, follow these steps. This project primarily uses C++ and is likely intended for embedded systems like Arduino or ESP32.
+
+### Prerequisites
