@@ -34,3 +34,8 @@ Ensure you have the following installed:
     *   `NewPing` (for ultrasonic sensors)
     *   `Servo` (if using a servo motor for the lid)
     *   `IRremote` (if using IR sensors for proximity)
+    *   `WiFiClient`, `WebServer`, etc. (if implementing IoT features)
+
+### Manual Installation Steps
+
+1.  **Clone the Repository:**
