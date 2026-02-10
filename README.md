@@ -43,3 +43,10 @@ Start by cloning the `Smart_DustBin` repository to your local machine using Git:
     git clone https://github.com/hedi0/Smart_DustBin.git
     cd Smart_DustBin
     ```
+
+2.  **Navigate to Code Directory:**
+    The core project code is located in the `codes` directory.
+
+    ```bash
+    cd codes
+    ```
