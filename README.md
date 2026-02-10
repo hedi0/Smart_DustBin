@@ -24,3 +24,8 @@ An intelligent waste management system designed to optimize waste collection and
 To get your Smart_DustBin project up and running, follow these steps. This project primarily uses C++ and is likely intended for embedded systems like Arduino or ESP32.
 
 ### Prerequisites
+
+Ensure you have the following installed:
+
+*   **C++ Compiler:** A C++ compiler (e.g., g++ for Linux/macOS, MinGW for Windows) if compiling for a standard system, or the Arduino IDE for embedded boards.
+*   **Arduino IDE (Recommended for Embedded):** Download and install the [Arduino IDE](https://www.arduino.cc/en/software).
