@@ -241,3 +241,39 @@ void blinkLowBatteryWarning() {
     delay(100);
     digitalWrite(powerLED, LOW);
     delay(100);
+  }
+}
+
+// Configure watchdog timer for automatic wake-up
+void setupWatchdog() {
+  MCUSR &= ~(1 << WDRF);        // Clear watchdog reset flag
+  WDTCSR |= (1 << WDCE) | (1 << WDE);  // Enable configuration change
+  // Set watchdog timeout to 8 seconds and enable interrupt
+  WDTCSR = (1 << WDP3) | (0 << WDP2) | (0 << WDP1) | (1 << WDP0) | (1 << WDIE);
+  WDTCSR &= ~(1 << WDE);        // Disable watchdog reset, keep interrupt
+}
+
+// Enter deep sleep mode to save power
+void enterDeepSleep() {
+  // Configure sleep mode
+  set_sleep_mode(SLEEP_MODE_PWR_DOWN);  // Lowest power mode
+  sleep_enable();                       // Enable sleep
+  
+  // Disable peripherals for maximum power saving
+  ADCSRA &= ~(1 << ADEN);               // Turn off ADC
+  power_all_disable();                  // Disable all peripherals
+  
+  // Enable interrupts and enter sleep
+  sei();                                // Enable interrupts
+  sleep_cpu();                          // Enter sleep mode
+  
+  // Code resumes here after wake-up
+  sleep_disable();                      // Disable sleep mode
+  power_all_enable();                   // Re-enable peripherals
+}
+
+// Watchdog timer interrupt service routine
+ISR(WDT_vect) {
+  // Empty - just wakes up the microcontroller
+  // No action needed, just triggers wake-up from sleep
+}
