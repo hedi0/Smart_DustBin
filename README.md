@@ -61,3 +61,26 @@ Start by cloning the `Smart_DustBin` repository to your local machine using Git:
     *   Select the correct serial port from `Tools > Port > [Your Port]`.
     *   Review the code for any specific pin configurations or Wi-Fi credentials that need to be updated for your setup.
     *   Click the "Upload" button (right arrow icon) in the Arduino IDE to compile and flash the code to your board.
+
+### Environment Configuration (Example for ESP32 with Wi-Fi)
+
+If your project includes Wi-Fi connectivity, you might need to configure network credentials within the `codes` directory. Look for a section similar to this:
+
+```cpp
+// In Smart_DustBin.ino or a config file
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
+
+void setup() {
+  Serial.begin(115200);
+  WiFi.begin(ssid, password);
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(1000);
+    Serial.println("Connecting to WiFi...");
+  }
+  Serial.println("Connected to WiFi!");
+  // ... rest of setup
+}
+```
+
+Replace `YOUR_WIFI_SSID` and `YOUR_WIFI_PASSWORD` with your actual network credentials.
