@@ -50,3 +50,7 @@ Start by cloning the `Smart_DustBin` repository to your local machine using Git:
     ```bash
     cd codes
     ```
+
+3.  **Open in Arduino IDE:**
+    *   Open the `.ino` file (e.g., `Smart_DustBin.ino`) within the `codes` directory using the Arduino IDE.
+    *   Install any missing libraries by going to `Sketch > Include Library > Manage Libraries...` and searching for the required ones (e.g., `Servo`).
