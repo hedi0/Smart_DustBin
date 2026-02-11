@@ -126,3 +126,7 @@ The primary function involves sensor interaction to control the lid and monitor 
       } else {
         clearFullAlert();
       }
+    }
+    ```
+
+### Interacting with the System
