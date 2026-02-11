@@ -106,3 +106,5 @@ The primary function involves sensor interaction to control the lid and monitor 
         delay(LID_OPEN_TIME); // Keep lid open for a duration
         closeLid();
       }
+      // ... check fill level, etc.
+    }
