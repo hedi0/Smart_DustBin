@@ -143,3 +143,4 @@ The Smart_DustBin project is continuously evolving. Here are some of our upcomin
 *   **Version 1.1.0:**
     *   **Mobile Application Integration:** Develop a companion mobile app (Android/iOS) to monitor dustbin status and receive notifications.
     *   **Advanced Fill Prediction:** Implement machine learning to predict when the dustbin will be full based on usage patterns.
+    *   **Solar Power Integration:** Explore adding a solar panel for sustainable power, making the dustbin more eco-friendly and autonomous.
