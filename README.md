@@ -100,3 +100,4 @@ The primary function involves sensor interaction to control the lid and monitor 
 
     // Example pseudocode for lid operation
     void loop() {
+      int distance = ultrasonic.ping_cm(); // Get distance in cm
