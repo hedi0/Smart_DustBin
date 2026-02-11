@@ -137,3 +137,5 @@ While the system is largely autonomous, you might interact with it by simply app
 *A placeholder image showing the dustbin in operation, pehaps with its lid open or an indicator showing it's full.*
 
 ## 🗺️ Project Roadmap
+
+The Smart_DustBin project is continuously evolving. Here are some of our upcoming goals and planned improvements:
