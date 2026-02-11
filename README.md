@@ -122,3 +122,5 @@ The primary function involves sensor interaction to control the lid and monitor 
       int fillDistance = fillSensor.ping_cm();
      // Distance from sensor to trash
       if (fillDistance > 0 && fillDistance < FULL_THRESHOLD) {
+        triggerFullAlert();
+      } else {
