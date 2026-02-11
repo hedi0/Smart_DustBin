@@ -90,3 +90,5 @@ Replace `YOUR_WIFI_SSID` and `YOUR_WIFI_PASSWORD` with your actual network crede
 Once the `Smart_DustBin` firmware is uploaded to your microcontroller, the system will begin operating automatically based on its programmed logic.
 
 ### Basic Operation
+
+The primary function involves sensor interaction to control the lid and monitor fill levels.
