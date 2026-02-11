@@ -108,3 +108,7 @@ The primary function involves sensor interaction to control the lid and monitor 
       }
       // ... check fill level, etc.
     }
+
+    ```
+
+2.  **Fill Level Monitoring:**
