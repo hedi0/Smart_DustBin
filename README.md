@@ -152,3 +152,5 @@ The Smart_DustBin project is continuously evolving. Here are some of our upcomin
 *   **Future Enhancements:**
     *   API development for third-party integrations.
     *   Fleet management for multiple dustbins in a smart city context.
+
+## 🤝 Contribution Guidelines
