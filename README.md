@@ -148,3 +148,6 @@ The Smart_DustBin project is continuously evolving. Here are some of our upcomin
 *   **Version 1.2.0:**
     *   **Waste Type Recognition:** Integrate sensors (e.g., optical) to identify different types of waste (recyclable, organic) and sort them into internal compartments.
     *   **Voice Control:** Add voice command capabilities for lid control and status queries.
+
+*   **Future Enhancements:**
+    *   API development for third-party integrations.
