@@ -92,3 +92,6 @@ Once the `Smart_DustBin` firmware is uploaded to your microcontroller, the syste
 ### Basic Operation
 
 The primary function involves sensor interaction to control the lid and monitor fill levels.
+
+1.  **Proximity Detection:**
+    When an object (e.g., a hand or trash) is detected within a certain range of the proximity sensor (e.g., ultrasonic or IR),
