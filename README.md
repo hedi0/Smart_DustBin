@@ -130,3 +130,5 @@ The primary function involves sensor interaction to control the lid and monitor 
     ```
 
 ### Interacting with the System
+
+While the system is largely autonomous, you might interact with it by simply
