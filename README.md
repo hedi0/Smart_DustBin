@@ -124,3 +124,5 @@ The primary function involves sensor interaction to control the lid and monitor 
       if (fillDistance > 0 && fillDistance < FULL_THRESHOLD) {
         triggerFullAlert();
       } else {
+        clearFullAlert();
+      }
