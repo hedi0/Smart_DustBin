@@ -139,3 +139,6 @@ While the system is largely autonomous, you might interact with it by simply app
 ## 🗺️ Project Roadmap
 
 The Smart_DustBin project is continuously evolving. Here are some of our upcoming goals and planned improvements:
+
+*   **Version 1.1.0:**
+    *   **Mobile Application Integration:** Develop a companion mobile app (Android/iOS) to monitor dustbin status and receive notifications.
