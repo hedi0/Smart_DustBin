@@ -104,3 +104,5 @@ The primary function involves sensor interaction to control the lid and monitor 
       if (distance > 0 && distance < PROXIMITY_THRESHOLD) {
         openLid();
         delay(LID_OPEN_TIME); // Keep lid open for a duration
+        closeLid();
+      }
