@@ -131,4 +131,4 @@ The primary function involves sensor interaction to control the lid and monitor 
 
 ### Interacting with the System
 
-While the system is largely autonomous, you might interact with it by simply
+While the system is largely autonomous, you might interact with it by simply approaching it to dispose of waste. If connected to a network, you might also monitor
