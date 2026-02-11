@@ -112,3 +112,5 @@ The primary function involves sensor interaction to control the lid and monitor 
     ```
 
 2.  **Fill Level Monitoring:**
+
+    The system continuously monitors the internal fill level. When the trash reaches a predefined threshold, an alert mechanism 
