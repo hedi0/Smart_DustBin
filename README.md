@@ -84,3 +84,7 @@ void setup() {
 ```
 
 Replace `YOUR_WIFI_SSID` and `YOUR_WIFI_PASSWORD` with your actual network credentials.
+
+## 🚀 Usage Examples
+
+Once the `Smart_DustBin` firmware is uploaded to your microcontroller, the system will begin operating automatically based on its programmed logic.
