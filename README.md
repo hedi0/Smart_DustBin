@@ -180,3 +180,4 @@ Please use the following conventions for your branches:
 3.  **Make your changes**, ensuring they follow the code style guidelines.
 4.  **Commit your changes** with clear and concise commit messages.
 5.  **Push your branch** to your forked repository.
+6.  **Open a Pull Request** to the `main` branch of the original repository.
