@@ -192,3 +192,5 @@ Please use the following conventions for your branches:
 *   Ensure the project compiles without warnings and runs as expected on the target hardware.
 
 ## 📄 License Information
+
+This project is licensed under the **Apache License 2.0**.
