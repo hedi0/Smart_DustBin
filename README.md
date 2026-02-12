@@ -171,3 +171,4 @@ Please use the following conventions for your branches:
 *   **`feature/<feature-name>`**: For new features.
 *   **`bugfix/<issue-description>`**: For bug fixes.
 *   **`docs/<documentation-update>`**: For documentation improvements.
+*   **`refactor/<refactor-description>`**: For code refactoring.
