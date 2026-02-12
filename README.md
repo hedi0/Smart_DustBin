@@ -190,3 +190,5 @@ Please use the following conventions for your branches:
 *   If applicable, include unit tests for new features or bug fixes.
 *   Provide instructions on how to manually test your changes if automated tests are not feasible for embedded logic.
 *   Ensure the project compiles without warnings and runs as expected on the target hardware.
+
+## 📄 License Information
