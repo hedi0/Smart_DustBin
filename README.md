@@ -181,3 +181,4 @@ Please use the following conventions for your branches:
 4.  **Commit your changes** with clear and concise commit messages.
 5.  **Push your branch** to your forked repository.
 6.  **Open a Pull Request** to the `main` branch of the original repository.
+    *   Provide a clear description of your changes.
