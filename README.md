@@ -172,3 +172,5 @@ Please use the following conventions for your branches:
 *   **`bugfix/<issue-description>`**: For bug fixes.
 *   **`docs/<documentation-update>`**: For documentation improvements.
 *   **`refactor/<refactor-description>`**: For code refactoring.
+
+### Pull Request Process
