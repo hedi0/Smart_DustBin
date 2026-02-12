@@ -156,3 +156,7 @@ The Smart_DustBin project is continuously evolving. Here are some of our upcomin
 ## 🤝 Contribution Guidelines
 
 We welcome contributions to the Smart_DustBin project! Please follow these guidelines to ensure a smooth collaboration process.
+
+### Code Style
+
+*   Adhere to a consistent C++ coding style (e.g., Google C++ Style Guide or similar).
