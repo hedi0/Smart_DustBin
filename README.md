@@ -174,3 +174,5 @@ Please use the following conventions for your branches:
 *   **`refactor/<refactor-description>`**: For code refactoring.
 
 ### Pull Request Process
+
+1.  **Fork the repository** and clone it to your local machine.
