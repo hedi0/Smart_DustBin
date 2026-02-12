@@ -161,3 +161,4 @@ We welcome contributions to the Smart_DustBin project! Please follow these guide
 
 *   Adhere to a consistent C++ coding style (e.g., Google C++ Style Guide or similar).
 *   Use meaningful variable and function names.
+*   Comment your code thoroughly, especially for complex logic.
