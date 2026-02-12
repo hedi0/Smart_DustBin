@@ -165,3 +165,5 @@ We welcome contributions to the Smart_DustBin project! Please follow these guide
 *   Keep functions concise and focused on a single responsibility.
 
 ### Branch Naming Conventions
+
+Please use the following conventions for your branches:
