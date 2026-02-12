@@ -167,3 +167,4 @@ We welcome contributions to the Smart_DustBin project! Please follow these guide
 ### Branch Naming Conventions
 
 Please use the following conventions for your branches:
+*   **`feature/<feature-name>`**: For new features.
