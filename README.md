@@ -186,3 +186,5 @@ Please use the following conventions for your branches:
     *   Ensure all checks pass.
 
 ### Testing Requirements
+
+*   If applicable, include unit tests for new features or bug fixes.
