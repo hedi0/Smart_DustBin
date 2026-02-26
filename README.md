@@ -178,9 +178,9 @@ Please use the following conventions for your branches:
 1.  **Fork the repository** and clone it to your local machine.
 2.  **Create a new branch** from `main` (e.g., `git checkout -b feature/add-new-sensor`).
 3.  **Make your changes**, ensuring they follow the code style guidelines.
-4.  **Commit your changes** with clear and concise commit messages.
+4.  **C
 5.  **Push your branch** to your forked repository.
-6.  **Open a Pull Request** to the `main` branch of the original repository.
+6.  **Open a Pull Request** to the `main` 
     *   Provide a clear description of your changes.
     *   Reference any relevant issues.
     *   Ensure all 
