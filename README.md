@@ -187,8 +187,7 @@ Please use the following conventions for your branches:
 
 ### Testing Requirements
 
-*   If applicable, include unit tests for new fe
-*   Provide instructions on how to manually test your changes if automat
+*   If applow to manually test y
 
 
 
