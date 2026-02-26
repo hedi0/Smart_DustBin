@@ -156,19 +156,11 @@ The Smart_DustBin project is continuously evolving. Here are some of our upcomin
 ## 🤝 Contribution Guidelines
 
 We welcome contributions to the Smart_DustBin project! Please follow these guidelines to ensure a smooth collaboration process.
-
-### Code Style
-
-*   Adhere to a consistent C++ coding style (e.g., Google C++ Style Guide or similar).
-*   Use meaningful variable and function names.
-*   Comment your code thoroughly, especially for complex logic.
-*   Keep functions concise and focused on a single responsibility.
-
-### Branch Naming Conventions
-
-Please use the following conventieee
-
-
+### Code St
+*   Adh a onsistent C++ coding sty (eg., Google C++ Style Guide or similar).
+*   Us meningful variable and functionnames.
+*   Cmmet your code thoroughly, especiall for complex logic.
+* eep functions concise and focused on a
 
 
 
