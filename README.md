@@ -193,4 +193,4 @@ Please use the following conventions for your branches:
 
 ## 📄 License Information
 
-This project is licensed under the **Apache License 
+This project is licensed 
