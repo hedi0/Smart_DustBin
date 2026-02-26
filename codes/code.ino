@@ -47,6 +47,16 @@ void setup() {
   pinMode(powerLED, OUTPUT);
   digitalWrite(powerLED, LOW);
 
+  attachInterrupt(digitalPinToInterrupt(echoPin), echoInterrupt, CHANGE);
+
+  checkBattery();
+  closeLid();
+
+  setupWatchdog();
+}
+
+// -------------------- MAIN LOOP --------------------
+
 
 
 
