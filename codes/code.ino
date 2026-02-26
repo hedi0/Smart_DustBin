@@ -23,7 +23,18 @@ const unsigned long CLOSE_DELAY = 3000;
 const float LOW_BATTERY_THRESHOLD = 3.3;
 const float CRITICAL_BATTERY_THRESHOLD = 3.0;
 
+Servo lidServo;
 
+volatile unsigned long pulseStart = 0;
+volatile unsigned long pulseEnd = 0;
+volatile bool pulseReceived = false;
+volatile bool echoTimeout = false;
+
+bool isOpen = false;
+unsigned long lastOpenTime = 0;
+
+float batteryVoltage = 0.0;
+bool lowBattery = false;
 
 
 
