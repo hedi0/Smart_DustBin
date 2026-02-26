@@ -157,10 +157,10 @@ The Smart_DustBin project is continuously evolving. Here are some of our upcomin
 
 We welcome contributions to the Smart_DustBin project! Please follow these guidelines to ensure a smooth collaboration process.
 ### Code St
-*   Adh a onsistent C++ coding sty (eg., Google C++ Style Guide or similar).
-*   Us meningful variable and functionnames.
-*   Cmmet your code thoroughly, especiall for complex logic.
-* eep functions concise and focused on a
+*   Adh a onsistent C++ coyC++ Style Guide or similar).
+*   Us meningfulnd functionnames.
+*   Cmmet your code y
+* eep functions conccused on a
 
 
 
