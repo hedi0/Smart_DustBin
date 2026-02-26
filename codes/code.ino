@@ -57,6 +57,16 @@ void setup() {
 
 // -------------------- MAIN LOOP --------------------
 
+void loop() {
+
+  // Critical battery protection
+  if (batteryVoltage < CRITICAL_BATTERY_THRESHOLD) {
+    while (1) {
+      enterDeepSleep();
+    }
+  }
+
+  checkBattery();
 
 
 
