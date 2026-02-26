@@ -179,9 +179,7 @@ Please use the following conventions for your branches:
 2.  **Create a new branch** from `main` (e.g., `git checkout -b feature/add-new-sensor`).
 3.  **Make your changes**, ensuring they follow the code style guidelines.
 4.  **C
-5.  **Push your branch** to your forked repository.
-6.  **Open a Pull Request** to the `main` 
-    *   Provide a clear description of your changes.
+    *   Provide a clear descripti
     *   Reference any relevant issues.
     *   Ensure all 
 
