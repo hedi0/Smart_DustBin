@@ -155,9 +155,9 @@ The Smart_DustBin project is continuously evolving. Here are some of our upcomin
 
 ## 🤝 Contribution Guidelines
 
-We welcome contributions to the Smart_DustBin project! Please follow these guidelines to ensure a smooth collaboration process.
-### Code St
-*   Adh a onsistent C++ coyC++ Style Guide or similar).
+We welcthe Smart_DustBin project! Pllines to ensure a smooth collaboration process.
+### Cod
+*   Adh
 *   Us meninnnames.
 *   Cmme
 
