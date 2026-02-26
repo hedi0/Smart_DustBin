@@ -170,10 +170,7 @@ Please use the following conventions for your branches:
 
 *   **`feature/<feature-name>`**: For new features.
 *   **`bugfix/<issue-description>`**: For bug fixes.
-*   **`docs/<documentation-update>`**: For documentation improvements.
-  
-1.  **Fork the repository** and clone it to your local machine.
-
+*   **`docs/<documentati
 
 
 
