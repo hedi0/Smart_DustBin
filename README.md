@@ -155,12 +155,7 @@ The Smart_DustBin project is continuously evolving. Here are some of our upcomin
 
 ## 🤝 Contribution Guidelines
 
-We welcthe Smart_DustBin project! Pllines to ensure a smooth collaboration process.
-### Cod
-*   Adh
-*   Us meninnnames.
-*   Cmme
-
+We welcthe Smart_Dust
 
 
 
