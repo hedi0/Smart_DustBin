@@ -36,7 +36,16 @@ unsigned long lastOpenTime = 0;
 float batteryVoltage = 0.0;
 bool lowBattery = false;
 
+// -------------------- SETUP --------------------
 
+void setup() {
+
+  pinMode(trigPin, OUTPUT);
+  digitalWrite(trigPin, LOW);
+
+  pinMode(echoPin, INPUT_PULLUP);
+  pinMode(powerLED, OUTPUT);
+  digitalWrite(powerLED, LOW);
 
 
 
