@@ -1,32 +1,52 @@
-
 /*
- * Smart Dustbin with Battery Optimization
- * Auto-opens lid when object detected within 15cm
- * Closes lid after 3 seconds
- * Uses deep sleep to save battery power
+ * Smart Dustbin - Li-ion Optimized Version
+ * Safe for single 3.7V Li-ion cell
  */
 
 #include <Servo.h>
-#include <avr/sleep.h>      // For sleep modes
-#include <avr/power.h>      // For disabling peripherals
+#include <avr/sleep.h>
+#include <avr/power.h>
+#include <avr/wdt.h>
 
 // Pin definitions
-const int trigPin = 2;      // Ultrasonic trigger pin (supports interrupt)
-const int echoPin = 3;      // Ultrasonic echo pin (supports interrupt)
-const int servoPin = 9;     // Servo control pin (PWM capable)
-const int batteryPin = A0;  // Battery voltage monitoring
-const int powerLED = 13;    // Status indicator LED
+const int trigPin = 2;
+const int echoPin = 3;
+const int servoPin = 9;
+const int powerLED = 13;
 
-// Configuration constants
-const int OPEN_ANGLE = 90;           // Servo angle when lid is open
-const int CLOSE_ANGLE = 0;           // Servo angle when lid is closed
-const int DETECTION_DISTANCE = 15;   // Distance threshold in cm
-const unsigned long CLOSE_DELAY = 3000;      // Time lid stays open (ms)
-const unsigned long WAKE_INTERVAL = 1000;    // Normal wake interval
-const int BATTERY_CHECK_INTERVAL = 10;       // Battery check frequency
-const float LOW_BATTERY_THRESHOLD = 3.3;     // Low battery voltage
+// Configuration
+const int OPEN_ANGLE = 90;
+const int CLOSE_ANGLE = 0;
+const int DETECTION_DISTANCE = 15;
+const unsigned long CLOSE_DELAY = 3000;
 
-// Global variables
+const float LOW_BATTERY_THRESHOLD = 3.3;
+const float CRITICAL_BATTERY_THRESHOLD = 3.0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Servo lidServo;                         // Servo object
 volatile bool motionDetected = false;   // Interrupt flag for motion
 bool isOpen = false;                    // Current lid state
