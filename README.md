@@ -177,11 +177,7 @@ Please use the following conventions for your branches:
 
 1.  **Fork the repository** and clone it to your local machine.
 2.  **Create a new branch** from `main` (e.g., `git checkout -b feature/add-new-sensor`).
-3.  **Make your changes**, ensuring they follow the code style guidelines.
-4.  **C
-    *   Provide a clear descripti
-    *   Reference any relevant issues.
-    *   Ensure all 
+3.  **Make your changes**, ensuring they follow the code style guidelines
 
 
 
