@@ -171,10 +171,7 @@ Please use the following conventions for your branches:
 *   **`feature/<feature-name>`**: For new features.
 *   **`bugfix/<issue-description>`**: For bug fixes.
 *   **`docs/<documentation-update>`**: For documentation improvements.
-*   **`refactor/<refactor-description>`**: For code refactoring.
-
-### Pull Request Process
-
+  
 1.  **Fork the repository** and clone it to your local machine.
 2.  **Create a new branch** from `main` (e.g., `git checkout -b feature/add-new-senso
 
