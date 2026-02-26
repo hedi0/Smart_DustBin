@@ -183,11 +183,7 @@ Please use the following conventions for your branches:
 6.  **Open a Pull Request** to the `main` branch of the original repository.
     *   Provide a clear description of your changes.
     *   Reference any relevant issues.
-    *   Ensure all checks pass.
-
-### Testing Requirements
-
-*   If applow to manually test y
+    *   Ensure all 
 
 
 
