@@ -213,3 +213,8 @@ void enterDeepSleep() {
   ADCSRA &= ~(1 << ADEN);
   power_all_disable();
 
+  sei();
+  sleep_cpu();
+
+  sleep_disable();
+  power_all_enable();
