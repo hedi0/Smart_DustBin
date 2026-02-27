@@ -192,3 +192,7 @@ void blinkLowBatteryWarning() {
     digitalWrite(powerLED, HIGH);
     delay(100);
     digitalWrite(powerLED, LOW);
+    delay(100);
+  }
+}
+
