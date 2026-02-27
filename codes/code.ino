@@ -94,6 +94,9 @@ void loop() {
   enterDeepSleep();
 }
 
+// -------------------- ULTRASONIC --------------------
+
+long measureDistance() {
 
 
 
