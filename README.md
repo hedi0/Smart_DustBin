@@ -9,7 +9,15 @@ An intelligent waste management system designed to optimize waste collection and
 
 ![example-preview-image](/preview_example.png)
 
----
+
+------------------------------------------------------------------------
+
+## 📋 Table of Contents
+
+-   Features
+-   Hardware Requirements
+-   Pin Connections
+-   Schematic Diagram
 
 ## ✨ Features
 
