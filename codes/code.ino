@@ -145,3 +145,11 @@ void openLid() {
   }
 }
 
+void closeLid() {
+  if (isOpen) {
+    lidServo.write(CLOSE_ANGLE);
+    delay(500);
+    isOpen = false;
+  }
+}
+
