@@ -137,3 +137,11 @@ void echoInterrupt() {
 
 // -------------------- SERVO --------------------
 
+void openLid() {
+  if (!isOpen) {
+    lidServo.write(OPEN_ANGLE);
+    delay(500);
+    isOpen = true;
+  }
+}
+
