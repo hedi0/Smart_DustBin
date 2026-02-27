@@ -207,3 +207,9 @@ void setupWatchdog() {
 
 void enterDeepSleep() {
 
+  set_sleep_mode(SLEEP_MODE_PWR_DOWN);
+  sleep_enable();
+
+  ADCSRA &= ~(1 << ADEN);
+  power_all_disable();
+
