@@ -6,9 +6,7 @@ An intelligent waste management system designed to optimize waste collection and
 ![License](https://img.shields.io/badge/license/Smart_DustBin-green)
 ![Stars](https://img.shields.io/github/stars/hedi0/Smart_DustBin?style=social)
 ![Forks](https://img.shields.io/github/forks/hedi0/Smart_DustBin?style=social)
-![Arduino Platform](https://img.shields.io/badge/Platform-Arduino-blue)
-![Ultrasonic
-Sensor](https://img.shields.io/badge/S
+![Arduino Platform](https://img.shields.io/badg
 ![example-preview-image](/preview_example.png)
 
 ---
