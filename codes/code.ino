@@ -218,3 +218,8 @@ void enterDeepSleep() {
 
   sleep_disable();
   power_all_enable();
+}
+
+ISR(WDT_vect) {
+  // Wakes MCU
+}
