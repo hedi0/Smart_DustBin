@@ -101,5 +101,7 @@ long measureDistance() {
   pulseReceived = false;
   echoTimeout = false;
 
+  digitalWrite(trigPin, LOW);
+  delayMicroseconds(2);
 
 
