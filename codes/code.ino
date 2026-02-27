@@ -153,3 +153,10 @@ void closeLid() {
   }
 }
 
+void detachServo() {
+  if (lidServo.attached()) {
+    lidServo.detach();
+    pinMode(servoPin, INPUT);
+  }
+}
+
