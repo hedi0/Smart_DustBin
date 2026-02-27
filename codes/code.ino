@@ -118,6 +118,14 @@ long measureDistance() {
 
   if (echoTimeout || !pulseReceived) return -1;
 
+  unsigned long duration = pulseEnd - pulseStart;
+  long distance = duration * 0.0343 / 2;
+
+  if (distance < 2 || distance > 400) return -1;
+
+  return distance;
+}
+
 
 
 
