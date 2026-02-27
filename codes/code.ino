@@ -107,6 +107,11 @@ long measureDistance() {
   delayMicroseconds(10);
   digitalWrite(trigPin, LOW);
 
+  unsigned long startTime = micros();
+
+  while (!pulseReceived) {
+    if (micros() - startTime > 30000) {
+      echoTimeout = true;
 
 
 
