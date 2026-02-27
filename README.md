@@ -10,9 +10,7 @@ An intelligent waste management system designed to optimize waste collection and
 ![Ultrasonic
 Sensor](https://img.shields.io/badge/Sensor-HC--SR04-orange)
 ![Battery](https://img.shields.io/badge/Battery-Li--ion-green)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-
+![License](https://img.shields.io/badge/License-MIT-b
 ![example-preview-image](/preview_example.png)
 
 ---
