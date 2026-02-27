@@ -131,3 +131,9 @@ void echoInterrupt() {
     pulseStart = micros();
   } else {
     pulseEnd = micros();
+    pulseReceived = true;
+  }
+}
+
+// -------------------- SERVO --------------------
+
