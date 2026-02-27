@@ -9,8 +9,7 @@ An intelligent waste management system designed to optimize waste collection and
 ![Arduino Platform](https://img.shields.io/badge/Platform-Arduino-blue)
 ![Ultrasonic
 Sensor](https://img.shields.io/badge/Sensor-HC--SR04-orange)
-![Battery](https://img.shields.io/badge/Battery-Li--ion-green)
-![License](https://img.shields.io/badge/License-MIT-b
+![Battery](https://img.shields.io/bad
 ![example-preview-image](/preview_example.png)
 
 ---
