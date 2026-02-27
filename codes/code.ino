@@ -67,6 +67,7 @@ void loop() {
   }
 
   checkBattery();
+
   if (!lowBattery) {
 
     long distance = measureDistance();
