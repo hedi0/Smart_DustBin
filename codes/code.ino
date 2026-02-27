@@ -98,6 +98,8 @@ void loop() {
 
 long measureDistance() {
 
+  pulseReceived = false;
+  echoTimeout = false;
 
 
 
