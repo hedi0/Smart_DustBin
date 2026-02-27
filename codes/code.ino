@@ -160,3 +160,11 @@ void detachServo() {
   }
 }
 
+// -------------------- BATTERY (Accurate Li-ion Reading) --------------------
+
+long readVcc() {
+  ADMUX = _BV(REFS0) | _BV(MUX3) | _BV(MUX2) | _BV(MUX1);
+  delay(2);
+  ADCSRA |= _BV(ADSC);
+  while (bit_is_set(ADCSRA, ADSC));
+
