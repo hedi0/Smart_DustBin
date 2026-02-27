@@ -168,3 +168,9 @@ long readVcc() {
   ADCSRA |= _BV(ADSC);
   while (bit_is_set(ADCSRA, ADSC));
 
+  long result = ADCL;
+  result |= ADCH << 8;
+  result = 1125300L / result;
+  return result; // mV
+}
+
