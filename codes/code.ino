@@ -112,6 +112,12 @@ long measureDistance() {
   while (!pulseReceived) {
     if (micros() - startTime > 30000) {
       echoTimeout = true;
+      break;
+    }
+  }
+
+  if (echoTimeout || !pulseReceived) return -1;
+
 
 
 
