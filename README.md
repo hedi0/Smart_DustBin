@@ -12,12 +12,25 @@ An intelligent waste management system designed to optimize waste collection and
 
 ------------------------------------------------------------------------
 
-## 📋 Table of Contents
+# 📋 Table of Contents
 
--   Features
--   Hardware Requirements
--   Pin Connections
--   Schematic Diagram
+-   [Overview](#-overview)
+-   [System Architecture](#-system-architecture)
+-   [Features](#-features)
+-   [Hardware Requirements](#-hardware-requirements)
+-   [Professional Wiring Schematic](#-professional-wiring-schematic)
+-   [Software Requirements](#-software-requirements)
+-   [Installation Guide](#-installation-guide)
+-   [Fingerprint Enrollment](#-fingerprint-enrollment)
+-   [System Operation](#-system-operation)
+-   [Configuration](#-configuration)
+-   [Security Considerations](#-security-considerations)
+-   [Troubleshooting](#-troubleshooting)
+-   [Future Improvements](#-future-improvements)
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 ## ✨ Features
 
