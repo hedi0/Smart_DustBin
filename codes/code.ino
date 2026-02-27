@@ -185,3 +185,10 @@ void checkBattery() {
   power_adc_disable();
 }
 
+// -------------------- LOW BATTERY WARNING --------------------
+
+void blinkLowBatteryWarning() {
+  for (int i = 0; i < 3; i++) {
+    digitalWrite(powerLED, HIGH);
+    delay(100);
+    digitalWrite(powerLED, LOW);
