@@ -126,6 +126,8 @@ long measureDistance() {
   return distance;
 }
 
-
-
-
+void echoInterrupt() {
+  if (digitalRead(echoPin) == HIGH) {
+    pulseStart = micros();
+  } else {
+    pulseEnd = micros();
