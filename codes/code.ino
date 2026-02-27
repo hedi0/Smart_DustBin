@@ -196,3 +196,9 @@ void blinkLowBatteryWarning() {
   }
 }
 
+// -------------------- WATCHDOG + SLEEP --------------------
+
+void setupWatchdog() {
+  MCUSR &= ~(1 << WDRF);
+  WDTCSR |= (1 << WDCE) | (1 << WDE);
+  WDTCSR = (1 << WDP3) | (1 << WDP0) | (1 << WDIE); // 8s
