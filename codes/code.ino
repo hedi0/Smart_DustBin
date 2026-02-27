@@ -174,3 +174,14 @@ long readVcc() {
   return result; // mV
 }
 
+void checkBattery() {
+  power_adc_enable();
+
+  long vcc = readVcc();
+  batteryVoltage = vcc / 1000.0;
+
+  lowBattery = (batteryVoltage < LOW_BATTERY_THRESHOLD);
+
+  power_adc_disable();
+}
+
