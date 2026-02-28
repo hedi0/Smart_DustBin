@@ -50,7 +50,9 @@ An intelligent waste management system designed to optimize waste collection and
 
 ------------------------------------------------------------------------
 
-## 🛠️ Hardware Requi
+## 🛠️ Hardware Requirements
+
+-   Arduino Uno / Na
 
 
 
