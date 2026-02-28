@@ -48,7 +48,9 @@ An intelligent waste management system designed to optimize waste collection and
 -   Internal 1.1V Reference Voltage Reading
 -   Peripheral Shutdown for Reduced Power Consumption
 
---------------------
+------------------------------------------------------------------------
+
+## 🛠️ Hardware Requi
 
 
 
