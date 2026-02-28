@@ -45,7 +45,8 @@ An intelligent waste management system designed to optimize waste collection and
 -   Li-ion Battery Monitoring
 -   Low Battery LED Warning
 -   Critical 3.0V Cutoff Protection
--   Internal 1.1V Re
+-   Internal 1.1V Reference Voltage Reading
+-   Peripheral Shutd
 
 
 
