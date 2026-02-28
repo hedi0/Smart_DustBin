@@ -40,7 +40,9 @@ An intelligent waste management system designed to optimize waste collection and
 -   Watchdog Wake-Up System
 -   Deep Sleep Mode for Power Saving
 
-### 🔋 Battery & Saf
+### 🔋 Battery & Safety Features
+
+-   Li-ion Battery M
 
 
 
