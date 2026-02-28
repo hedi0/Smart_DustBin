@@ -38,7 +38,9 @@ An intelligent waste management system designed to optimize waste collection and
 -   Auto-Close Timer (3 seconds)
 -   Interrupt-Based Ultrasonic Reading
 -   Watchdog Wake-Up System
--   Deep Sleep Mode 
+-   Deep Sleep Mode for Power Saving
+
+### 🔋 Battery & Saf
 
 
 
