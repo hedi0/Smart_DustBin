@@ -37,7 +37,8 @@ An intelligent waste management system designed to optimize waste collection and
 -   Servo-Controlled Lid Mechanism
 -   Auto-Close Timer (3 seconds)
 -   Interrupt-Based Ultrasonic Reading
--   Watchdog Wake-Up
+-   Watchdog Wake-Up System
+-   Deep Sleep Mode 
 
 
 
