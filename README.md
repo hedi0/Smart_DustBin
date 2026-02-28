@@ -33,6 +33,16 @@ An intelligent waste management system designed to optimize waste collection and
 
 ### 🎯 Core Functionality
 
+-   Automatic Lid Opening (15 cm detection)
+-   Servo-Controlled
+
+
+
+
+
+
+
+
 ## ✨ Features
 
 *   **🗑️ Smart Lid Control:** Automatically opens the dustbin lid when a user approaches, providing a touchless and hygienic experience.
