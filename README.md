@@ -138,10 +138,7 @@ The primary function involves sensor interaction to control the lid and monitor 
     ```cpp
     // Example pseudocode for fill level check
 
-    void checkFillLevel() {
-      int fillDistance = fillSensor.ping_cm();
-     // Distance from sensor to t
-      }
+    void checkFillLev
     }
     ```
 
@@ -153,7 +150,7 @@ While the system is largely autonomous, you might interact with it by simply app
 *A placeholder image showing the dustbin in operation, pehaps with its lid open or an indicator showing it's full.*
     *   **Mobile Application Integration:** Develop a companion mobile app (Android/iOS) to monitor dustbin status and receive notifications.
     *   **Advanced Fill Prediction:** Implement machine learning to predict when the dustbin will be full based on usage patterns.
-    *   **Solar Power Integration:** Explore adding a solar panel for sustainable power, making the dustbin more eco-friendly and autonomous.
+    *   **Solar Power Integration:** Explore adding a sing the dustbin more eco-friendly and autonomous.
 
 *   **Version 1.2.0:**
     *   **Waste Type Recognition:** Integrate sensors (e.g., optical) to identify different types of waste (recyclable, organic) and sort them into internal compartments.
