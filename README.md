@@ -30,7 +30,6 @@ An intelligent waste management system designed to optimize waste collection and
 
 ------------------------------------------------------------------------
 
-------------------------------------------------------------------------
 
 ## ✨ Features
 
@@ -141,11 +140,7 @@ The primary function involves sensor interaction to control the lid and monitor 
 
     void checkFillLevel() {
       int fillDistance = fillSensor.ping_cm();
-     // Distance from sensor to trash
-      if (fillDistance > 0 && fillDistance < FULL_THRESHOLD) {
-        triggerFullAlert();
-      } else {
-        clearFullAlert();
+     // Distance from sensor to t
       }
     }
     ```
