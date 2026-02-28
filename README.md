@@ -34,7 +34,8 @@ An intelligent waste management system designed to optimize waste collection and
 ### 🎯 Core Functionality
 
 -   Automatic Lid Opening (15 cm detection)
--   Servo-Controlled
+-   Servo-Controlled Lid Mechanism
+-   Auto-Close Timer
 
 
 
