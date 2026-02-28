@@ -35,7 +35,8 @@ An intelligent waste management system designed to optimize waste collection and
 
 -   Automatic Lid Opening (15 cm detection)
 -   Servo-Controlled Lid Mechanism
--   Auto-Close Timer
+-   Auto-Close Timer (3 seconds)
+-   Interrupt-Based 
 
 
 
