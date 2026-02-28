@@ -53,7 +53,8 @@ An intelligent waste management system designed to optimize waste collection and
 ## 🛠️ Hardware Requirements
 
 -   Arduino Uno / Nano (ATmega328P)
--   HC-SR04 Ultrason
+-   HC-SR04 Ultrasonic Sensor
+-   SG90 / MG90 Serv
 
 
 
@@ -61,7 +62,7 @@ An intelligent waste management system designed to optimize waste collection and
 
 
 
-
+<!--
 ## ✨ Features
 
 *   **🗑️ Smart Lid Control:** Automatically opens the dustbin lid when a user approaches, providing a touchless and hygienic experience.
@@ -190,3 +191,4 @@ While the system is largely autonomous, you might interact with it by simply app
 *   **Future Enhancements:**
     *   API development for third-party integrations.
     *   Fleet management for multiple dustbins in a smart city context.
+-->
