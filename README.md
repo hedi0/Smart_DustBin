@@ -42,7 +42,8 @@ An intelligent waste management system designed to optimize waste collection and
 
 ### 🔋 Battery & Safety Features
 
--   Li-ion Battery M
+-   Li-ion Battery Monitoring
+-   Low Battery LED 
 
 
 
