@@ -156,12 +156,6 @@ While the system is largely autonomous, you might interact with it by simply app
 
 ![Usage Screenshot Placeholder](/usage_screenshot.png)
 *A placeholder image showing the dustbin in operation, pehaps with its lid open or an indicator showing it's full.*
-
-## 🗺️ Project Roadmap
-
-The Smart_DustBin project is continuously evolving. Here are some of our upcoming goals and planned improvements:
-
-*   **Version 1.1.0:**
     *   **Mobile Application Integration:** Develop a companion mobile app (Android/iOS) to monitor dustbin status and receive notifications.
     *   **Advanced Fill Prediction:** Implement machine learning to predict when the dustbin will be full based on usage patterns.
     *   **Solar Power Integration:** Explore adding a solar panel for sustainable power, making the dustbin more eco-friendly and autonomous.
