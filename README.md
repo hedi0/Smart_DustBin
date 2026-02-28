@@ -52,7 +52,8 @@ An intelligent waste management system designed to optimize waste collection and
 
 ## 🛠️ Hardware Requirements
 
--   Arduino Uno / Na
+-   Arduino Uno / Nano (ATmega328P)
+-   HC-SR04 Ultrason
 
 
 
