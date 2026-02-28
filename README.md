@@ -15,7 +15,6 @@ An intelligent waste management system designed to optimize waste collection and
 # 📋 Table of Contents
 
 -   [Overview](#-overview)
--   [System Architecture](#-system-architecture)
 -   [Features](#-features)
 -   [Hardware Requirements](#-hardware-requirements)
 -   [Professional Wiring Schematic](#-professional-wiring-schematic)
@@ -30,6 +29,9 @@ An intelligent waste management system designed to optimize waste collection and
 
 ------------------------------------------------------------------------
 
+## ✨ Features
+
+### 🎯 Core Functionality
 
 ## ✨ Features
 
