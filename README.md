@@ -43,7 +43,8 @@ An intelligent waste management system designed to optimize waste collection and
 ### 🔋 Battery & Safety Features
 
 -   Li-ion Battery Monitoring
--   Low Battery LED 
+-   Low Battery LED Warning
+-   Critical 3.0V Cu
 
 
 
