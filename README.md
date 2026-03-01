@@ -170,10 +170,6 @@ The primary function involves sensor interaction to control the lid and monitor 
     ```cpp
     // Example pseudocode for fill level check
 
-    void checkFillLev
-    }
-    ```
-
-### Interacting with the
-While the system is largely autonomous, you might interact with it by simply approaching it to dispose of waste. If connected to a network, you might also monitor its status via a web interface or mobile application (if im
-*A placeholder image showing the dustbin in operation, pehaps pen or an indicator
+    void check
+cting with theWhile the system is largely autonomous, you might inting it to dispose of waste. If connected to a network, you might also monitor its status via a web interface or mobile 
+*A placeholder image showing the dustbin in operation, pe
