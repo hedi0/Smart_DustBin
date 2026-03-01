@@ -55,7 +55,8 @@ An intelligent waste management system designed to optimize waste collection and
 -   Arduino Uno / Nano (ATmega328P)
 -   HC-SR04 Ultrasonic Sensor
 -   SG90 / MG90 Servo Motor
--   18650 Li-ion Battery (Protect
+-   18650 Li-ion Battery (Protected)
+-   TP4056 Charging Module (with 
 
 
 
