@@ -175,8 +175,5 @@ The primary function involves sensor interaction to control the lid and monitor 
     ```
 
 ### Interacting with the
-While the system is largely autonomous, you might interact with it by simply approaching it to dispose of waste. If connected to a network, you might also monitor its status via a web interface or mobile application (if implemented).
-
-![Usage Screenshot Placeholde
-*A placeholder image showing the dustbin in operation, pehaps pen or an indicator showing it's full.*
-    *   **Mobile Application Integration:** Deoid/iOS) to monitor dustbin st
+While the system is largely autonomous, you might interact with it by simply approaching it to dispose of waste. If connected to a network, you might also monitor its status via a web interface or mobile application (if im
+*A placeholder image showing the dustbin in operation, pehaps pen or an indicator
