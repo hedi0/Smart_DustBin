@@ -185,9 +185,7 @@ While the system is largely autonomous, you might interact with it by simply app
     *   **Solar Power Integration:** Explore adding a sing the dustbin more eco-friendly and autonomous.
 
 *   **Version 1.2.0:**
-    *   **Waste Type Recognition:** Integrate sensors (e.g., optical) to identify different types of waste (recyclable, organic) and sort them into internal compartments.
-    *   **Voice Control:** Add voice command capabilities for lid control and status queries.
-
+    *   **Waste Type Recognition:** Integrate sensors (e.g., optis
 *   **Future Enhancements:**
     *   API development for third-party integrations.
     *   Fleet management for multiple dustbins in a smart city context.
