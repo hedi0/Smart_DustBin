@@ -174,14 +174,10 @@ The primary function involves sensor interaction to control the lid and monitor 
     }
     ```
 
-### Interacting with the System
-
+### Interacting with the
 While the system is largely autonomous, you might interact with it by simply approaching it to dispose of waste. If connected to a network, you might also monitor its status via a web interface or mobile application (if implemented).
 
 ![Usage Screenshot Placeholder](/usage_screenshot.png)
 *A placeholder image showing the dustbin in operation, pehaps with its lid open or an indicator showing it's full.*
     *   **Mobile Application Integration:** Deoid/iOS) to monitor dustbin status and receive notifications.
-    *   **Advanced Fill Prediction:** Implement machine learning to predict when the dustbin will be full based on usage patterns.
-    *   **Solar Power Integration:** Explore adding a sing the dustbin more eco-friendly and autonomous.
-
-*   **Versi
+    *   **Advanced Fill Prediction:** Implement machine learning to predict when the dustbin will be full based on usage
