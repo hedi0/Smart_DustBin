@@ -184,8 +184,4 @@ While the system is largely autonomous, you might interact with it by simply app
     *   **Advanced Fill Prediction:** Implement machine learning to predict when the dustbin will be full based on usage patterns.
     *   **Solar Power Integration:** Explore adding a sing the dustbin more eco-friendly and autonomous.
 
-*   **Version 1.2.0:**
-    *   **Waste Type Recognition:** Integrate sensors (e.g., optis
-*   **Future Enhancements:**
-    *   API development for third-party integrations.
-    *   Fl
+*   **Versi
