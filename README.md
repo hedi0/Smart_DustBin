@@ -180,7 +180,7 @@ While the system is largely autonomous, you might interact with it by simply app
 
 ![Usage Screenshot Placeholder](/usage_screenshot.png)
 *A placeholder image showing the dustbin in operation, pehaps with its lid open or an indicator showing it's full.*
-    *   **Mobile Application Integration:** Develop a companion mobile app (Android/iOS) to monitor dustbin status and receive notifications.
+    *   **Mobile Application Integration:** Deoid/iOS) to monitor dustbin status and receive notifications.
     *   **Advanced Fill Prediction:** Implement machine learning to predict when the dustbin will be full based on usage patterns.
     *   **Solar Power Integration:** Explore adding a sing the dustbin more eco-friendly and autonomous.
 
@@ -188,5 +188,4 @@ While the system is largely autonomous, you might interact with it by simply app
     *   **Waste Type Recognition:** Integrate sensors (e.g., optis
 *   **Future Enhancements:**
     *   API development for third-party integrations.
-    *   Fleet management for multiple dustbins in a smart city context.
--->
+    *   Fl
