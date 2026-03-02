@@ -166,6 +166,4 @@ The primary function involves sensor interaction to control the lid and monitor 
     ```
 
 2.  **Fill Level Monitoring:**
-hen the trash reaches a predefined threshold, an alert mechanism (e.g., an LED, buzzer, or network notification) will be trigge
-ample pseudocode for fill 
-cting with theWwaste. If connecte
+hen the trash reaches a pre an alert mechanism (e.g., an LED, buzzer, or network notificat
