@@ -59,6 +59,7 @@ An intelligent waste management system designed to optimize waste collection and
 -   TP4056 Charging Module (with protection)
 -   470µF Capacitor
 -   LED (Optional)
+-   Jumper Wires
 
 
 
