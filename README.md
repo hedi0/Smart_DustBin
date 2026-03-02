@@ -57,6 +57,7 @@ An intelligent waste management system designed to optimize waste collection and
 -   SG90 / MG90 Servo Motor
 -   18650 Li-ion Battery (Protected)
 -   TP4056 Charging Module (with protection)
+-   470µF Capacitor
 
 
 
@@ -132,15 +133,8 @@ void setup() {
     delay(1000);
     Serial.println("Connecting to WiFi...");
   }
-  Serial.println("Connected to WiFi!");
-  // ... rest of setup
-}
-```
-
-Replace `YOUR_WIFI_SSID` and `YOUR_WIFI_PASSWORD` with your actual network credentials.
-
-## 🚀 Usage Examples
-
+  Serial.println("Connected to WiFi!
+Replace `YOUR_WIFI_SSID` and `YOUR_IFI_PASSWORD` with your actual networ
 Once the `Smart_DustBin` firmware is uploaded to your microcontroller, the system will begin operating automatically bas
 Thensor interaction to control the lid and monitor f
     When an object (e.g., a han certain range of the proximity sensor
