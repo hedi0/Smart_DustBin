@@ -155,6 +155,4 @@ The primary function involves sensor interaction to control the lid and monitor 
     // Example pseudocode for lid operation
     void loop() {
       int distance = ultrasonic.ping_cm(); // Get distance in cm
-      if (distance > 0 && distance < PROXIMITY_THRESHOLD) {
-        openLid();
-        delay(LID_OPEN_TIME); // Keep lid open for a 
+      if (distance > 0 && dist
