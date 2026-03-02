@@ -141,8 +141,6 @@ Replace `YOUR_WIFI_SSID` and `YOUR_WIFI_PASSWORD` with your actual network crede
 
 ## 🚀 Usage Examples
 
-Once the `Smart_DustBin` firmware is uploaded to your microcontroller, the system will begin operating automatically based on its programmed logic.
-
-### Basic Ope
-The primary function involves sensor interaction to control the lid and monitor f
-    When an object (e.g., a hand or trash) is detected within a certain range of the proximity sensor
+Once the `Smart_DustBin` firmware is uploaded to your microcontroller, the system will begin operating automatically bas
+Thensor interaction to control the lid and monitor f
+    When an object (e.g., a han certain range of the proximity sensor
