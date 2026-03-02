@@ -58,6 +58,7 @@ An intelligent waste management system designed to optimize waste collection and
 -   18650 Li-ion Battery (Protected)
 -   TP4056 Charging Module (with protection)
 -   470µF Capacitor
+-   LED (Optional)
 
 
 
@@ -136,5 +137,4 @@ void setup() {
   Serial.println("Connected to WiFi!
 Replace `YOUR_WIFI_SSID` and `YOUR_IFI_PASSWORD` with your actual networ
 Once the `Smart_DustBin` firmware is uploaded to your microcontroller, the system will begin operating automatically bas
-Thensor interaction to control the lid and monitor f
-    When an object (e.g., a han certain range of the proximity sensor
+Thensor interaction to control the l
