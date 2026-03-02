@@ -150,9 +150,5 @@ The primary function involves sensor interaction to control the lid and monitor 
 1.  **Proximity Detection:**
     When an object (e.g., a hand or trash) is detected within a certain range of the proximity sensor (e.g., ultrasonic or IR), the lid servo motor will activate to open the dustbin.
 
-    ```cpp
-
-    // Example pseudocode for lid operation
-    void loop() {
-      int distance = ultrasonic.ping_cm(); // Get distance in cm
-      if (distance > 0 && dist
+   
+      int distance = ultrasonic.ping_cm(); // Get 
