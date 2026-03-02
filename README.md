@@ -160,10 +160,4 @@ The primary function involves sensor interaction to control the lid and monitor 
         delay(LID_OPEN_TIME); // Keep lid open for a duration
         closeLid();
       }
-      // ... check fill level, etc.
-    }
-
-    ```
-
-2.  **Fill Level Monitoring:**
-hen the trash reaches a pre an alert mechanism (e.g., an LED, buzzer, or network notificat
+      // ... check fill level,hanism (e.g., an LED, buzzer, or 
