@@ -116,8 +116,7 @@ Start by cloning the `Smart_DustBin` repository to your local machine using Git:
     *   Connect your microcontroller board (e.g., Arduino UNO, ESP32) to your computer via USB.
     *   Select the correct board from `Tools > Board > [Your Board]`.
     *   Select the correct serial port from `Tools > Port > [Your Port]`.
-    *   Review the code for any specific pin configurations or Wi-Fi credentials that need to be updated for your setup.
-    *   Click the "Upload" button (rig
+    *   Review the code for any specific pin confi
 
 
 
