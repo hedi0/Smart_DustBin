@@ -133,8 +133,17 @@ void setup() {
   WiFi.begin(ssid, password);
   while (WiFi.status() != WL_CONNECTED) {
     delay(1000);
-    Serial.println("Connecting to WiFi...");
-  }
-  Serial.println("Connected to WiFi!
-Replace `YOUR_WIFI_SSID` and `YOUR_IFI_PASSWORD` with your actual networ
+    Serial.println("Connecting to W
+Replace `YOUR_WIFI_SSID` and `YOUR_IFI_PASSWORD` with your act
 Once the `Smart_DustBin` firmware is uploaded to your microcontroller, the system will begin o
+
+
+
+
+
+
+
+
+
+
+
