@@ -123,11 +123,7 @@ Start by cloning the `Smart_DustBin` repository to your local machine using Git:
 If your project includes Wi-Fi connectivi
 // In Smart_DustBin.ino or a config file
 const char* ssid = "YOUR_WIFI_SSID";
-const char* password = "YOUR_WIFI_PASSWORD";
-
-void setup() {
-  Serial.begin(115200);
-  WiFi.begin(ssid, password);
+const char* password = "YOUR_W
 
 
 
