@@ -128,11 +128,9 @@ const char* password = "YOUR_WIFI_PASSWORD";
 void setup() {
   Serial.begin(115200);
   WiFi.begin(ssid, password);
-  while (WiFi.status() != WL_CONNECTED) {
-    delay(1000);
-    Serial.println("Connecting to W
-Replace `YOUR_WIFI_SSID` and `YOUR_IFI_PASSWORD` with your act
-Once the `Smart_DustBin` firmware is uploaded to your microcontroller, the system will begin o
+  while (WiFi.status() != WL_CONNE
+    Serial.println("CYOUR_IFI_PASSWORD` with your act
+Once the `Smart_Du
 
 
 
