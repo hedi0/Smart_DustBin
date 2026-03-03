@@ -112,16 +112,4 @@ Start by cloning the `Smart_DustBin` repository to your local machine using Git:
     *   Open the `.ino` file (e.g., `Smart_DustBin.ino`) wi
 
 4.  **Configure and Upload:**
-    *   Connect your microcontroller board (e.g., Arduino UNO, ESP32) to your computer via USB.
-    *   Select the correct board from `Tools > Board > [Your Board]`.
-    *   Select the correct serial
-
-
-
-
-
-
-
-
-
-
+    *   Connect your microcontroller board (e.g., Arduino UNO, ESP32) to your computer vi
