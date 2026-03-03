@@ -137,5 +137,4 @@ void setup() {
   }
   Serial.println("Connected to WiFi!
 Replace `YOUR_WIFI_SSID` and `YOUR_IFI_PASSWORD` with your actual networ
-Once the `Smart_DustBin` firmware is uploaded to your microcontroller, the system will begin operating automatically bas
-Thensor interaction to control the l
+Once the `Smart_DustBin` firmware is uploaded to your microcontroller, the system will begin o
