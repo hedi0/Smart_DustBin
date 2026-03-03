@@ -128,9 +128,6 @@ const char* password = "YOUR_WIFI_PASSWORD";
 void setup() {
   Serial.begin(115200);
   WiFi.begin(ssid, password);
-  while (WiFi.status() != WL_CONNE
-    Serial.println("CYOUR_IFI_PASSWORD` with your act
-Once the `Smart_Du
 
 
 
