@@ -120,11 +120,7 @@ Start by cloning the `Smart_DustBin` repository to your local machine using Git:
     *   Click the "Upload" button (right arrow icon) in the Arduino IDE to compile 
 ### Environment Configuration (Example for ESP32 with Wi-Fi)
 
-If your project includes Wi-Fi connectivi
-// In Smart_DustBin.ino or a config file
-const char* ssid = "YOUR_WIFI_SSID";
-const char* password = "YOUR_W
-
+If your project includes Wi-Fi c
 
 
 
