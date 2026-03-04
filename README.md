@@ -94,13 +94,7 @@ Ensure you have the following installed:
 ### Manual Installation Steps
 
 1.  **Clone the Repository:**
-Start by cloning the `Smart_DustBin` repository to your local machine using Git:
-
-    
-    cd Smart_DustBin
-    ```
-
-2
+Start by cloning the `Smart_DustBin` repository to your local machine u
 
 
 
