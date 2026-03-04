@@ -101,8 +101,7 @@ Start by cloning the `Smart_DustBin` repository to your local machine using Git:
     cd Smart_DustBin
     ```
 
-2.  **Navigate to Code Directory:**
-    The core project code is locate
+2
 
 
 
