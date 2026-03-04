@@ -102,15 +102,7 @@ Start by cloning the `Smart_DustBin` repository to your local machine using Git:
     ```
 
 2.  **Navigate to Code Directory:**
-    The core project code is located in the `codes` directory.
-
-    ```bash
-    cd codes
-    ```
-
-3.  **Open in Arduino IDE:**
-    *   Open the `.in
-
+    The core project code is locate
 
 
 
