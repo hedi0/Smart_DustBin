@@ -89,11 +89,7 @@ Ensure you have the following installed:
 *   **Board Support Package:** Install the necessary board support package for your target microcontroller (e.g., ESP32, ESP8266, Arduino UNO) via the Arduino IDE's Boards Manager.
 *   **Required Libraries:**
     *   `Servo` (if using a servo motor for the lid)
-    *   `WiFiClient`, `WebServer`, etc. (if implementing IoT features)
-
-### Manual Installation Steps
-
-1.  **Clone the Repository:**
+    *   `WiFiClient`, `WebServer`, etc. (if implementing IoT 
 Start by cloning the `Smart_DustBin` repository to your local machine u
 
 
