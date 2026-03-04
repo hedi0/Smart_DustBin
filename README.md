@@ -109,7 +109,34 @@ Start by cloning the `Smart_DustBin` repository to your local machine using Git:
     ```
 
 3.  **Open in Arduino IDE:**
-    *   Open the `.ino` file (e.g., `Smart_DustBin.ino`) wi
+    *   Open the `.in
 
-4.  **Configure and Upload:**
-    *   Conn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
