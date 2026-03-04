@@ -90,7 +90,7 @@ Ensure you have the following installed:
 *   **Required Libraries:**
     *   `Servo` (if using a servo motor for the lid)
     *   `WiFiClient`, `WebServer`, etc. (if implementing IoT 
-Start by cloning the `Smart_DustBin` repository to your local machine u
+Start by cloning t
 
 
 
