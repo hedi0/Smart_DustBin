@@ -96,8 +96,7 @@ Ensure you have the following installed:
 1.  **Clone the Repository:**
 Start by cloning the `Smart_DustBin` repository to your local machine using Git:
 
-    ```bash
-    git clone https://github.com/hedi0/Smart_DustBin.git
+    
     cd Smart_DustBin
     ```
 
