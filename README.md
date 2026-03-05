@@ -76,9 +76,6 @@ An intelligent waste management system designed to optimize waste collection and
 *   **🔋 Power Efficiency:** Designed for low-power consumption, ensuring extended operational periods between charges or maintenance.
 *   **🌐 Modular Design:** Built with a modular architecture in C++, allowing for easy customization and integration of additional sensors or features.
 
-## 🛠️ Instal steps. This project primarily uses C++ ans like Arduino
-
-
 
 
 
