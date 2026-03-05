@@ -83,7 +83,7 @@ To get your Smart_DustBin project up and running, follow these steps. This proje
 ### Prerequi
 *   **C++ Compiler:** A C++ compiler (e.g., g++ for Linux/macOS, MinGW for Windows) if compiling for a standard system, 
 *   **Arduino IDE (Recommen[Arduino IDE](https://www.arduino.cc/en/software).
-*   **Board Support Package:** Install the necessary board su
+*   **Board Su
 
 
 
