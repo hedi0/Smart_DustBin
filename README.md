@@ -72,8 +72,8 @@ An intelligent waste management system designed to optimize waste collection and
 
 *   **🗑️ Smart Lid Control:** Automatically opens the dustbin lid when a user approaches, providing a touchless and hygienic experience.
 *   **📈 Fill Level Monitoring:** Utilizes ultrasonic sensors to detect the current fill level of the dustbin, preventing overfilling.
-*   **🔔 Notification System:** Sends alerts when the dustbin is full or requires attention, streamlining waste collection logistics.
-*   **🔋 Power Efficiency:** Designed for low-power consumption, ensuring extended operational periods between charges or maint
+*   **🔔 Notification System:** Sends alerts when the dustbin is full or requires attention, streamlining waste collection logistics
+*   **🔋 Power Efficiency:** Designed for low-power consumption, en
 
 
 
