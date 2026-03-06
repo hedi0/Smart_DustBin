@@ -70,7 +70,7 @@ An intelligent waste management system designed to optimize waste collection and
 <!--
 ## ✨ Features
 
-*   **🗑️ Smart Lid Control:** Automatically opens the dustbin lid when a user approaches, providing a 
+*   **🗑️ Smart Lid Control:** Automatically 
 
 
 
