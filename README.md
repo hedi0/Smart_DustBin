@@ -70,11 +70,7 @@ An intelligent waste management system designed to optimize waste collection and
 <!--
 ## ✨ Features
 
-*   **🗑️ Smart Lid Control:** Automatically 
-
-
-
-
+*   **🗑️ Smart Lid** Aut
 
 
 
