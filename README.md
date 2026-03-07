@@ -62,7 +62,7 @@ An intelligent waste management system designed to optimize waste collection and
 -   Jumper Wires
 -   Breadboard
 
-⚠️ Us
+⚠️ Use a protected Li-ion battery and a
 
 
 
