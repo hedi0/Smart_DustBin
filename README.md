@@ -60,3 +60,15 @@ An intelligent waste management system designed to optimize waste collection and
 -   470µF Capacitor
 -   LED (Optional)
 -   Jumper Wires
+-   Breadboard
+
+⚠️ Us
+
+
+
+
+
+
+
+
+
