@@ -73,6 +73,7 @@ servo power lines.
 -   D3 → Ultrasonic Echo\
 -   D9 → Servo Signal\
 -   D13 → LED\
+-   GND → Common Ground
 
 
 
