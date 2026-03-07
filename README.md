@@ -77,7 +77,9 @@ servo power lines.
 
 ------------------------------------------------------------------------
 
-## ⚙️ So
+## ⚙️ Software Setup
+
+Install Arduino
 
 
 
