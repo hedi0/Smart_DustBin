@@ -70,6 +70,8 @@ servo power lines.
 ## 🔌 Pin Connections
 
 -   D2 → Ultrasonic Trig\
+-   D3 → Ultrasonic Echo\
+
 
 
 
