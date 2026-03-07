@@ -71,6 +71,7 @@ servo power lines.
 
 -   D2 → Ultrasonic Trig\
 -   D3 → Ultrasonic Echo\
+-   D9 → Servo Signal\
 
 
 
