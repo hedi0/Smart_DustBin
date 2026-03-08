@@ -79,7 +79,7 @@ servo power lines.
 
 ## ⚙️ Software Setup
 
-Install Arduino
+Install Arduino IDE from: https://www.arduino.cc/e
 
 
 
