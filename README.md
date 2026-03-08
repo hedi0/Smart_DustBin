@@ -87,7 +87,7 @@ Required Libraries: - Servo - avr/sleep.h - avr/power.h - avr/wdt.h
 
 ## 🔧 Configuration
 
-Dete
+Detection: - Distance: 15 
 
 
 
