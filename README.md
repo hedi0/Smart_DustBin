@@ -89,7 +89,10 @@ Required Libraries: - Servo - avr/sleep.h - avr/power.h - avr/wdt.h
 
 Detection: - Distance: 15 cm - Close delay: 3000 ms
 
-Battery Thresholds: - Low: 3.3V - Criti
+Battery Thresholds: - Low: 3.3V - Critical: 3.0V
+
+------------------------------------------------------------------------
+
 
 
 
