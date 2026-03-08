@@ -85,7 +85,9 @@ Required Libraries: - Servo - avr/sleep.h - avr/power.h - avr/wdt.h
 
 ------------------------------------------------------------------------
 
-## 🔧 Config
+## 🔧 Configuration
+
+Dete
 
 
 
