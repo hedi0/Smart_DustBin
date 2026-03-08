@@ -81,7 +81,7 @@ servo power lines.
 
 Install Arduino IDE from: https://www.arduino.cc/en/software
 
-Required 
+Required Libraries: - Servo - avr/sleep
 
 
 
