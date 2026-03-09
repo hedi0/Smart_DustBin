@@ -98,7 +98,7 @@ Battery Thresholds: - Low: 3.3V - Critical: 3.0V
 1.  System wakes from deep sleep.
 2.  Measures distance.
 3.  Opens lid if object detected.
-4.  Clos
+4.  Clooses aft
 
 
 
