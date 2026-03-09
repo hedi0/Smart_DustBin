@@ -102,6 +102,7 @@ Battery Thresholds: - Low: 3.3V - Critical: 3.0V
 5.  Returns to sleep.
 6.  Enters permanent sleep if battery \< 3.0V.
 
------------
+------------------------------------------------------------------------
+
 
 
