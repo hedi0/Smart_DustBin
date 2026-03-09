@@ -100,6 +100,6 @@ Battery Thresholds: - Low: 3.3V - Critical: 3.0V
 3.  Opens lid if object detected.
 4.  Clooses after delay.
 5.  Returns to sleep.
-6.  Enters permanent s
+6.  Enters permanent sleep if
 
 
