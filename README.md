@@ -99,7 +99,7 @@ Battery Thresholds: - Low: 3.3V - Critical: 3.0V
 2.  Measures distance.
 3.  Opens lid if object detected.
 4.  Clooses after delay.
-
+5.  Returns
 
 
 
