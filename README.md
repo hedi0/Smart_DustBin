@@ -109,7 +109,7 @@ Battery Thresholds: - Low: 3.3V - Critical: 3.0V
 Estimated Current: - Servo: 200--500mA - Active: 20--40mA - Sleep:
 \~1--5mA
 
-Advanced: - Add MOSFET for servo power -
+Advanced: - Add MOSFET for servo power - Power ult
 
 
 
