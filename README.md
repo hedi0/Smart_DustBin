@@ -95,7 +95,7 @@ Battery Thresholds: - Low: 3.3V - Critical: 3.0V
 
 ## 🚀 Usage
 
-1.  System wakes from d
+1.  System wakes from deep sleep.
 
 
 
