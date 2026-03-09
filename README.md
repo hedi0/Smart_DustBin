@@ -106,7 +106,7 @@ Battery Thresholds: - Low: 3.3V - Critical: 3.0V
 
 ## 🔋 Power Optimization
 
-Estimated Current: - Servo: 200--500mA - Active: 20--40mA - Sle
+Estimated Current: - Servo: 200--500mA - Active: 20--40mA - Sle  
 
 
 
