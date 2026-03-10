@@ -128,7 +128,7 @@ Smart-Dustbin/
 -   Solar charging
 -   ESP32 IoT version
 -   OLED battery display
--   Odor sensor in
+-   Odor sensor integr
 
 
 
