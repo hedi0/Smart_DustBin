@@ -114,7 +114,7 @@ transistor - Disable brown-out detection - Use 8MHz internal clock
 
 ------------------------------------------------------------------------
 
-## 📁 P
+## 📁 Proje
 
 
 
