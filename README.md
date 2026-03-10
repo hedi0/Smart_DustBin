@@ -126,7 +126,7 @@ Smart-Dustbin/
 ## 🔄 Future Enhancements
 
 -   Solar charging
--   ES
+-   ESP32 I
 
 
 
