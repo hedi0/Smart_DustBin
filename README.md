@@ -123,7 +123,7 @@ Smart-Dustbin/
 
 ------------------------------------------------------------------------
 
-## 🔄 Future Enhanceme
+## 🔄 Future Enhancements
 
 
 
