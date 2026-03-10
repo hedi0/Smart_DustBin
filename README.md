@@ -128,6 +128,7 @@ Smart-Dustbin/
 -   Solar charging
 -   ESP32 IoT version
 -   OLED battery display
+-   O
 
 
 
