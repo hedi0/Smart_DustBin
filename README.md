@@ -125,7 +125,8 @@ Smart-Dustbin/
 
 ## 🔄 Future Enhancements
 
--   Solar chargin
+-   Solar charging
+-   ES
 
 
 
