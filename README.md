@@ -127,6 +127,7 @@ Smart-Dustbin/
 
 -   Solar charging
 -   ESP32 IoT version
+-   O
 
 
 
