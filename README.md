@@ -116,7 +116,7 @@ transistor - Disable brown-out detection - Use 8MHz internal clock
 
 ## 📁 Project Structure
 
-Smart-D
+Smart-Dustbin
 
 
 
