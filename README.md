@@ -125,6 +125,8 @@ Smart-Dustbin/
 
 ## 🔄 Future Enhancements
 
+-   So
+
 
 
 
