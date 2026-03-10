@@ -125,7 +125,7 @@ Smart-Dustbin/
 
 ## 🔄 Future Enhancements
 
--   So
+-   Solar cha
 
 
 
