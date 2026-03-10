@@ -119,7 +119,7 @@ transistor - Disable brown-out detection - Use 8MHz internal clock
 Smart-Dustbin/
 ├── smart_dustbin.ino
 ├── LICENSE 
-└── R
+└── READM
 
 
 
