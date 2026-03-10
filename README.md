@@ -110,7 +110,9 @@ Estimated Current: - Servo: 200--500mA - Active: 20--40mA - Sleep:
 \~1--5mA
 
 Advanced: - Add MOSFET for servo power - Power ultrasonic via
-transistor - Disable brown-out detection - Use 8MHz internal clo
+transistor - Disable brown-out detection - Use 8MHz internal clock
+
+--------
 
 
 
