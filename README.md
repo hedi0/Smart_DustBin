@@ -121,7 +121,7 @@ Smart-Dustbin/
 ├── LICENSE 
 └── README.md
 
-----
+----------
 
 
 
