@@ -130,6 +130,8 @@ Smart-Dustbin/
 -   OLED battery display
 -   Odor sensor integration
 
+-----------
+
 
 
 
