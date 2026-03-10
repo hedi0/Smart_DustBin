@@ -126,7 +126,7 @@ Smart-Dustbin/
 ## 🔄 Future Enhancements
 
 -   Solar charging
--   ESP32 IoT ver
+-   ESP32 IoT version
 
 
 
