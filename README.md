@@ -136,7 +136,7 @@ Smart-Dustbin/
 
 -   Never discharge Li-ion below 3.0V
 -   Use TP4056 with protection
--   Ensure common gr
+-   Ensure common grou
 
 
 
