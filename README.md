@@ -134,7 +134,7 @@ Smart-Dustbin/
 
 ## ⚠️ Safety Notes
 
--   Never discharge Li-i
+-   Never discharge Li-ion
 
 
 
