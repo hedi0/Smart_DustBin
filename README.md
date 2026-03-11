@@ -134,7 +134,7 @@ Smart-Dustbin/
 
 ## ⚠️ Safety Notes
 
--   Never dischar
+-   Never discharge L
 
 
 
