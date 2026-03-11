@@ -134,7 +134,7 @@ Smart-Dustbin/
 
 ## ⚠️ Safety Notes
 
--   Neveeve
+-   Never d
 
 
 
