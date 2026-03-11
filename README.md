@@ -135,7 +135,8 @@ Smart-Dustbin/
 ## ⚠️ Safety Notes
 
 -   Never discharge Li-ion below 3.0V
--   Use TP4056 with protectio
+-   Use TP4056 with protection
+-   E
 
 
 
