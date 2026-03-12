@@ -10,4 +10,4 @@
 ![Stars](https://img.shields.io/github/stars/hedi0/Smart_DustBin?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/hedi0/Smart_DustBin?style=for-the-badge)
 
-### A contactless, battery-powered smart bin — automat
+### A contactless, battery-powered smart bin — automatically opens when you approach, monitors its own batt
