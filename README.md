@@ -8,4 +8,4 @@
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Stars](https://img.shields.io/github/stars/hedi0/Smart_DustBin?style=for-the-badge)
-![Forks](https://img.shields.io/gi
+![Forks](https://img.shields.io/github/forks/hedi0/Smart_DustBin?style=for-the-badge)
