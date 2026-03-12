@@ -139,6 +139,8 @@ Smart-Dustbin/
 -   Ensure common ground
 -   Add capacitor for servo stability
 
+------
+
 
 
 
