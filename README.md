@@ -12,3 +12,4 @@
 
 ### A contactless, battery-powered smart bin — automatically opens when you approach, monitors its own battery, and sleeps to save power when idle.
  
+![Preview](preview_exampl
