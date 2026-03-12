@@ -1,1 +1,1 @@
-# 🗑️ Smart Dus
+# 🗑️ Smart Dustbin System
