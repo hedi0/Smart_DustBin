@@ -41,6 +41,8 @@
 
 11. [Future Ideas](#-future-ideas)
 
+12. [Safety Notes](#-safety-notes)
 
+---
 
 
