@@ -41,7 +41,10 @@
 The system runs a simple, repeating loop:
 
 ```
-Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  →  Wait  →  Cl
+Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  →  Wait  →  Close lid  →  Sleep
+```
+
+1. The Arduino stays in 
 
 
 
