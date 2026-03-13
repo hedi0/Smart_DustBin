@@ -35,6 +35,7 @@
 
 8. [Power & Battery Life](#-power--battery-life)
 
+9. [Project Structure](#-project-structure)
 
 
 
