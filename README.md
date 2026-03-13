@@ -44,7 +44,8 @@ The system runs a simple, repeating loop:
 Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  →  Wait  →  Close lid  →  Sleep
 ```
 
-1. The Arduino stays in 
+1. The Arduino stays in **deep sleep** to save battery.
+2. A **
 
 
 
