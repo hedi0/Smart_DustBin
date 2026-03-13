@@ -41,7 +41,9 @@
 The system runs a simple, repeating loop:
 
 ```
-Sleep  →  Wake  →  Check battery  → 
+Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  →  Wait  →  Cl
+
+
 
 
 
