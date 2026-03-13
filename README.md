@@ -33,6 +33,7 @@
 
 7. [Usage](#-usage)
 
+8. [Power & Battery Life](#-power--battery-life)
 
 
 
