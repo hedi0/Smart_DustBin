@@ -39,6 +39,7 @@
 
 10. [Troubleshooting](#-troubleshooting)
 
+11. [Future Ideas](#-future-ideas)
 
 
 
