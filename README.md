@@ -55,8 +55,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 
 ---
 
-
-
+## ✨ Features
 
 
 
