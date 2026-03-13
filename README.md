@@ -29,6 +29,8 @@
 
 5. [Software Setup](#-software-setup)
 
+6. [Configuration](#-configuration)
+
 
 
 
