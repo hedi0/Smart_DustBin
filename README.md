@@ -20,3 +20,5 @@
 
 ## 📋 Table of Contents
 
+
+1. [How It Works](#-how-it-works)
