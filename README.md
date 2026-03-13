@@ -51,7 +51,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 5. After 3 seconds with nothing detected → the lid **closes automatically**.
 6. It goes back to sleep.
 
-> If battery voltage drops below **3.0V*
+> If battery voltage drops below **3.0V**, the system enters per
 
 
 
