@@ -23,24 +23,15 @@
 
 1. [How It Works](#-how-it-works)
 2. [Features](#-features)
-
 3. [What You Need](#-what-you-need)
 4. [Wiring It Up](#-wiring-it-up)
-
 5. [Software Setup](#-software-setup)
-
 6. [Configuration](#-configuration)
-
 7. [Usage](#-usage)
-
 8. [Power & Battery Life](#-power--battery-life)
-
 9. [Project Structure](#-project-structure)
-
 10. [Troubleshooting](#-troubleshooting)
-
 11. [Future Ideas](#-future-ideas)
-
 12. [Safety Notes](#-safety-notes)
 
 ---
