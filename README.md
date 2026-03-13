@@ -31,6 +31,7 @@
 
 6. [Configuration](#-configuration)
 
+7. [Usage](#-usage)
 
 
 
