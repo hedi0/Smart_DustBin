@@ -25,13 +25,6 @@
 2. [Features](#-features)
 
 3. [What You Need](#-what-you-need)
-
-
-
-
-
-
-
-
+4. [Wiring It Up](#-wiring-it-up)
 
 
