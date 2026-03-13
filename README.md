@@ -46,7 +46,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 
 1. The Arduino stays in **deep sleep** to save battery.
 2. A **watchdog timer** wakes it up every second.
-3. It fires t
+3. It fires the **ultrasonic sensor** to 
 
 
 
