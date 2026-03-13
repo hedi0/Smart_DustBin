@@ -38,6 +38,7 @@
 
 ## 💡 How It Works
 
+The system runs a simpl
 
 
 
