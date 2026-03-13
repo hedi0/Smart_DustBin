@@ -49,7 +49,9 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 3. It fires the **ultrasonic sensor** to check if anything is within 15 cm.
 4. If something is detected → the **servo opens the lid**.
 5. After 3 seconds with nothing detected → the lid **closes automatically**.
-6. It goes back to sle
+6. It goes back to sleep.
+
+> If battery vol
 
 
 
