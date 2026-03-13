@@ -37,6 +37,7 @@
 
 9. [Project Structure](#-project-structure)
 
+10. [Troubleshooting](#-troubleshooting)
 
 
 
