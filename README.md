@@ -38,7 +38,10 @@
 
 ## 💡 How It Works
 
-The system runs a simpl
+The system runs a simple, repeating loop:
+
+```
+Sleep  
 
 
 
