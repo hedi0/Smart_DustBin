@@ -41,9 +41,7 @@
 The system runs a simple, repeating loop:
 
 ```
-Sleep  
-
-
+Sleep  →  Wake  →  Check battery  → 
 
 
 
