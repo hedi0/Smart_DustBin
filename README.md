@@ -59,7 +59,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 
 ### 🎯 Core
 
-- **Hands-free lid** — opens when you're within 15 cm,
+- **Hands-free lid** — opens when you're within 15 cm, no touc
 
 
 
