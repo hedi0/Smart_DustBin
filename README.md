@@ -59,7 +59,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 
 ### 🎯 Core
 
-- **Hands
+- **Hands-free lid*
 
 
 
