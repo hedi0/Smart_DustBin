@@ -63,7 +63,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 - **Auto-close** — lid closes after 3 seconds of no detection
 - **Deep sleep mode** — draws only ~1–5 mA when idle
 - **Watchdog wake-up** — wakes the MCU on a timer without user interaction
-- **Interrupt-driv
+- **Interrupt-driven ul
 
 
 
