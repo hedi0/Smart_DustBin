@@ -66,7 +66,8 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 - **Interrupt-driven ultrasonic** — echo measured via hardware interrupt (accurate & non-blocking)
 
 ### 🔋 Battery & Safety
-- **Live voltage monitoring** — reads Li-ion voltage using the internal 1.1V ADC refer
+- **Live voltage monitoring** — reads Li-ion voltage using the internal 1.1V ADC reference
+- **L
 
 
 
