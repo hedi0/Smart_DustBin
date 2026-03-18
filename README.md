@@ -67,7 +67,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 
 ### 🔋 Battery & Safety
 - **Live voltage monitoring** — reads Li-ion voltage using the internal 1.1V ADC reference
-- **Low battery LED war
+- **Low battery LED warning
 
 
 
