@@ -66,7 +66,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 - **Interrupt-driven ultrasonic** — echo measured via hardware interrupt (accurate & non-blocking)
 
 ### 🔋 Battery & Safety
-- **Li
+- **Live vo
 
 
 
