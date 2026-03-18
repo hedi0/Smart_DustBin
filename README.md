@@ -65,7 +65,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 - **Watchdog wake-up** — wakes the MCU on a timer without user interaction
 - **Interrupt-driven ultrasonic** — echo measured via hardware interrupt (accurate & non-blocking)
 
-### 🔋 Ba
+### 🔋 Batter
 
 
 
