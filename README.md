@@ -75,7 +75,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 
 ## 🛠️ What You Need
 
-### H
+### Hardw
 
 
 
