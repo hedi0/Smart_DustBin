@@ -69,7 +69,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 - **Live voltage monitoring** — reads Li-ion voltage using the internal 1.1V ADC reference
 - **Low battery LED warning** — LED blinks when voltage drops below 3.3V
 - **Critical cutoff at 3.0V** — permanently sleeps to prevent cell damage
-- **Peripheral shutdown** — disables SPI, I²C, UART when not in us
+- **Peripheral shutdown** — disables SPI, I²C, UART when not in use
 
 
 
