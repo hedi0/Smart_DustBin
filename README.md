@@ -77,4 +77,4 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 
 ### Hardware
 
-| # | Co
+| # | Compon
