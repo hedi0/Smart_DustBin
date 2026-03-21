@@ -79,7 +79,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 
 | # | Component | Notes |
 |---|-----------|-------|
-| 1 | Ar
+| 1 | Arduin
 
 
 
