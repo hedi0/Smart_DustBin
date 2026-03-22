@@ -80,7 +80,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 | # | Component | Notes |
 |---|-----------|-------|
 | 1 | Arduino Uno or Nano (ATmega328P) | Main controller |
-| 2 | HC
+| 2 | HC-SR0
 
 
 
