@@ -81,6 +81,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 |---|-----------|-------|
 | 1 | Arduino Uno or Nano (ATmega328P) | Main controller |
 | 2 | HC-SR04 Ultrasonic Sensor | Detects hand proximity |
+| 3 | S
 
 
 
