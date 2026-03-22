@@ -79,7 +79,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 
 | # | Component | Notes |
 |---|-----------|-------|
-| 1 | Arduino Uno or Nano (ATmega328P) | Mai
+| 1 | Arduino Uno or Nano (ATmega328P) | Main con
 
 
 
