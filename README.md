@@ -84,7 +84,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 | 3 | SG90 or MG90S Servo Motor | Opens/closes the lid |
 | 4 | 18650 Li-ion Battery (**protected**) | Power source |
 | 5 | TP4056 Charging Module (**with protection**) | Safe charging |
-| 6 | 4
+| 6 | 470µ
 
 
 
