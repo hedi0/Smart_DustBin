@@ -83,7 +83,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 | 2 | HC-SR04 Ultrasonic Sensor | Detects hand proximity |
 | 3 | SG90 or MG90S Servo Motor | Opens/closes the lid |
 | 4 | 18650 Li-ion Battery (**protected**) | Power source |
-| 5 | TP405
+| 5 | TP4056 Cha
 
 
 
