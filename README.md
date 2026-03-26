@@ -86,7 +86,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 | 5 | TP4056 Charging Module (**with protection**) | Safe charging |
 | 6 | 470µF Electrolytic Capacitor | Stabilizes servo power |
 | 7 | LED + 220Ω resistor | Low battery indicator (optional) |
-| 8 | Jumper wires 
+| 8 | Jumper wires + br
 
 
 
