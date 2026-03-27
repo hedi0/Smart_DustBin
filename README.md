@@ -88,7 +88,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 | 7 | LED + 220Ω resistor | Low battery indicator (optional) |
 | 8 | Jumper wires + breadboard | — |
 
-> ⚠️ **Important:** Use a **prote
+> ⚠️ **Important:** Use a **protecte
 
 
 
