@@ -88,7 +88,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 | 7 | LED + 220Ω resistor | Low battery indicator (optional) |
 | 8 | Jumper wires + breadboard | — |
 
-> ⚠️ **Important:** Use a **protected** 18650 cell and a TP4056 **with** the protection circuit. Using unprotected com
+> ⚠️ **Important:** Use a **protected** 18650 cell and a TP4056 **with** the protection circuit. Using unprotected compone
 
 
 
