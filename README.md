@@ -90,7 +90,9 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 
 > ⚠️ **Important:** Use a **protected** 18650 cell and a TP4056 **with** the protection circuit. Using unprotected components is a fire hazard..
 
-### Softwar
+### Software
+
+| T
 
 
 
