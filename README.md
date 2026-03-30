@@ -94,7 +94,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 
 | Tool | Link |
 |------|------|
-| Arduino IDE | https://www.ard
+| Arduino IDE | https://www.arduino
 
 
 
