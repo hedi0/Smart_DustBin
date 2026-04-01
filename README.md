@@ -100,7 +100,11 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 | `avr/power.h` | Built into Arduino IDE |
 | `avr/wdt.h` | Built into Arduino IDE |
 
-No ext libraries to install — everything is included with the Arduino ID
+No ext libraries to install — everything is included with the Arduino IDE.
+
+---
+
+## 🔌 Wi
 
 
 
