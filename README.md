@@ -113,7 +113,7 @@ D2             →    HC-SR04   TRIG
 D3             →    HC-SR04   ECHO
 D9  (PWM)      →    Servo     SIGNAL (orange wire)
 D13            →    LED (+)   → 220Ω resistor → GND
-5V             →    HC
+5V             →    HC-SR04   V
 
 
 
