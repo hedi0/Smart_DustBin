@@ -108,7 +108,8 @@ No ext libraries to install — everything is included with the Arduino IDE.
 
 ```
 Arduino Pin    →    Component
-────────────────────────────────────────
+──────────────────────────────────────────
+D2  
 
 
 
