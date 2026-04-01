@@ -104,7 +104,10 @@ No ext libraries to install — everything is included with the Arduino IDE.
 
 ---
 
-## 🔌 Wiring I
+## 🔌 Wiring It Up
+
+```
+Ard
 
 
 
