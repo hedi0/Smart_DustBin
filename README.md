@@ -111,7 +111,7 @@ Arduino Pin    →    Component
 ──────────────────────────────────────────
 D2             →    HC-SR04   TRIG
 D3             →    HC-SR04   ECHO
-D9  (PWM)      →    Servo     SI
+D9  (PWM)      →    Servo     SIGNAL (or
 
 
 
