@@ -107,7 +107,8 @@ No ext libraries to install — everything is included with the Arduino IDE.
 ## 🔌 Wiring It Up
 
 ```
-Arduino Pin    →    Compone
+Arduino Pin    →    Component
+────
 
 
 
