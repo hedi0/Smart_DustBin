@@ -98,7 +98,7 @@ Sleep  →  Wake  →  Check battery  →  Measure distance  →  Open lid  → 
 | `Servo.h` | Built into Arduino IDE |
 | `avr/sleep.h` | Built into Arduino IDE |
 | `avr/power.h` | Built into Arduino IDE |
-| `avr/wdt.h` | Built into Arduino
+| `avr/wdt.h` | Built into Arduino ID
 
 
 
