@@ -110,7 +110,7 @@ No ext libraries to install — everything is included with the Arduino IDE.
 Arduino Pin    →    Component
 ──────────────────────────────────────────
 D2             →    HC-SR04   TRIG
-D3             →    H
+D3             →    H-SR04   
 
 
 
