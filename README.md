@@ -119,7 +119,7 @@ GND            →    All       GND  ──┘               │
                                                     GND
 ```
 
-**Quick checklist befor
+**Quick checklist before powe
 
 
 
