@@ -119,6 +119,8 @@ GND            →    All       GND  ──┘               │
                                                     GND
 ```
 
+**Qui
+
 
 
 
