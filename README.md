@@ -119,7 +119,8 @@ GND            →    All       GND  ──┘               │
                                                     GND
 ```
 
-**Quick checklist before powering o
+**Quick checklist before powering on:**
+- [ ] A
 
 
 
