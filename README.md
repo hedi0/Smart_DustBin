@@ -120,7 +120,7 @@ GND            →    All       GND  ──┘               │
 ```
 
 **Quick checklist before powering on:**
-- [ ] A
+- [ ] All GND pins sh
 
 
 
