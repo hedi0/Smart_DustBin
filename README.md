@@ -119,7 +119,7 @@ GND            →    All       GND  ──┘               │
                                                     GND
 ```
 
-**Qui
+**Quick checkl
 
 
 
