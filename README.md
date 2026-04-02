@@ -115,7 +115,7 @@ D9  (PWM)      →    Servo     SIGNAL (orange wire)
 D13            →    LED (+)   → 220Ω resistor → GND
 5V             →    HC-SR04   VCC
 5V             →    Servo     VCC  ──┬── 470µF cap ──┐
-GND      
+GND            →    A
 
 
 
