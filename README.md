@@ -120,7 +120,7 @@ GND            →    All       GND  ──┘               │
 ```
 
 **Quick checklist before powering on:**
-- [ ] All GND pins sh
+- [ ] All GND pins share a co
 
 
 
