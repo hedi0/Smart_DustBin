@@ -123,7 +123,7 @@ GND            →    All       GND  ──┘               │
 - [ ] All GND pins share a common ground
 - [ ] 470µF capacitor is across the servo's VCC and GND
 - [ ] TP4056 protection circuit is present (not bare module)
-- [ ] Servo signa
+- [ ] Servo signal goes
 
 
 
