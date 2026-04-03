@@ -122,7 +122,7 @@ GND            →    All       GND  ──┘               │
 **Quick checklist before powering on:**
 - [ ] All GND pins share a common ground
 - [ ] 470µF capacitor is across the servo's VCC and GND
-- [ ] TP4056 protec
+- [ ] TP4056 protection circu
 
 
 
