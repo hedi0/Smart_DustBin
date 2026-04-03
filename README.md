@@ -121,7 +121,7 @@ GND            →    All       GND  ──┘               │
 
 **Quick checklist before powering on:**
 - [ ] All GND pins share a common ground
-- [ ] 470µF capacitor is across
+- [ ] 470µF capacitor is across the ser
 
 
 
