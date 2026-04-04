@@ -129,7 +129,7 @@ GND            →    All       GND  ──┘               │
 
 ## ⚙️ Software Setup
 
-### Step 1 — Ins
+### Step 1 — Install Ardu
 
 
 
