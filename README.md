@@ -125,7 +125,9 @@ GND            →    All       GND  ──┘               │
 - [ ] TP4056 protection circuit is present (not bare module)
 - [ ] Servo signal goes goes to D9 (PWM-capable pin)
 
---
+---
+
+## ⚙️ Sof
 
 
 
