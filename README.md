@@ -129,7 +129,8 @@ GND            →    All       GND  ──┘               │
 
 ## ⚙️ Software Setup
 
-### Step 1 — Install Ardu
+### Step 1 — Install Arduino IDE
+Down
 
 
 
