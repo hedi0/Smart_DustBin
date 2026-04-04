@@ -130,7 +130,7 @@ GND            →    All       GND  ──┘               │
 ## ⚙️ Software Setup
 
 ### Step 1 — Install Arduino IDE
-Down
+Download from: h
 
 
 
