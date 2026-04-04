@@ -127,7 +127,9 @@ GND            →    All       GND  ──┘               │
 
 ---
 
-## ⚙️ Software Se
+## ⚙️ Software Setup
+
+### St
 
 
 
