@@ -127,7 +127,7 @@ GND            →    All       GND  ──┘               │
 
 ---
 
-## ⚙️ Sof
+## ⚙️ Software Se
 
 
 
