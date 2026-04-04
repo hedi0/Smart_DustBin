@@ -129,7 +129,7 @@ GND            →    All       GND  ──┘               │
 
 ## ⚙️ Software Setup
 
-### St
+### Step 1 — Ins
 
 
 
