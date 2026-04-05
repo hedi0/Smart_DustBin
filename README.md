@@ -133,7 +133,8 @@ GND            →    All       GND  ──┘               │
 Download from: https://www.arduino.cc/en/software
 
 ### Step — Open the sketch
-`
+```
+File →
 
 
 
