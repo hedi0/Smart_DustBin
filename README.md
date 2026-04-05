@@ -134,7 +134,7 @@ Download from: https://www.arduino.cc/en/software
 
 ### Step — Open the sketch
 ```
-File → Open → codes
+File → Open → codes/smart_du
 
 
 
