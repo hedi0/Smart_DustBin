@@ -137,7 +137,7 @@ Download from: https://www.arduino.cc/en/software
 File → Open → codes/smart_dustbin.ino
 ```
 
-### Step
+### Step 3 — Selec
 
 
 
