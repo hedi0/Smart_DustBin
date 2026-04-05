@@ -134,7 +134,10 @@ Download from: https://www.arduino.cc/en/software
 
 ### Step — Open the sketch
 ```
-File → Open → codes/smart_dustbin.
+File → Open → codes/smart_dustbin.ino
+```
+
+### Step
 
 
 
