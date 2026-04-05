@@ -132,7 +132,8 @@ GND            →    All       GND  ──┘               │
 ### Step 1 — Install Arduino IDE
 Download from: https://www.arduino.cc/en/software
 
-### Step — Open th
+### Step — Open the sketch
+`
 
 
 
