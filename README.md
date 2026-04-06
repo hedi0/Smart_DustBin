@@ -146,7 +146,9 @@ Tools → Port    → COM3  (or your port — check Device Manager on Windows)
 ### Step 4 — Upload
 Click the **→ Upload** button. Done.
 
---
+---
+
+## 🔧 Configu
 
 
 
