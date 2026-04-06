@@ -150,7 +150,7 @@ Click the **→ Upload** button. Done.
 
 ## 🔧 Configuration
 
-All settings are at the top of `smart_du
+All settings are at the top of `smart_dustbin.ino
 
 
 
