@@ -153,7 +153,8 @@ Click the **→ Upload** button. Done.
 All settings are at the top of `smart_dustbin.ino`. Edit these to match your build:
 ```cpp
 // ── Detection ─────────────────────────────────────────
-#define DETECT_DISTANCE_CM   1
+#define DETECT_DISTANCE_CM   1#define DETECT_DISTANCE_CM   15      // Open lid if object closer than this (cm)
+
 
 
 
