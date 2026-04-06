@@ -148,7 +148,9 @@ Click the **→ Upload** button. Done.
 
 ---
 
-## 🔧 Configu
+## 🔧 Configuration
+
+All
 
 
 
