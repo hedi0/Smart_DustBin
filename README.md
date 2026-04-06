@@ -150,7 +150,7 @@ Click the **→ Upload** button. Done.
 
 ## 🔧 Configuration
 
-All
+All settings are
 
 
 
