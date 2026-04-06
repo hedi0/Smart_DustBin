@@ -139,7 +139,7 @@ File → Open → codes/smart_dustbin.ino
 
 ### Step 3 — Select your board and port
 ```
-Tools → Board   → Arduin
+Tools → Board   → Arduino Uno  (or N
 
 
 
