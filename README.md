@@ -141,7 +141,9 @@ File → Open → codes/smart_dustbin.ino
 ```
 Tools → Board   → Arduino Uno  (or Nano w/ ATmega328P)
 Tools → Port    → COM3  (or your port — check Device Manager on Windows)
-``
+```
+
+### Step 
 
 
 
