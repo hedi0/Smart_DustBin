@@ -154,7 +154,9 @@ All settings are at the top of `smart_dustbin.ino`. Edit these to match your bui
 ```cpp
 // ── Detection ─────────────────────────────────────────
 #define DETECT_DISTANCE_CM   15      // Open lid if object closer than this (cm)
-#define LID_CLOSE_DELAY_MS   3000    // How long to keep lid open
+#define LID_CLOSE_DELAY_MS   3000    // How long to keep lid open (milliseconds)
+
+/
 
 
 
