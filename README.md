@@ -157,7 +157,7 @@ All settings are at the top of `smart_dustbin.ino`. Edit these to match your bui
 #define LID_CLOSE_DELAY_MS   3000    // How long to keep lid open (milliseconds)
 
 // ── Servo Angles ──────────────────────────────────────
-#define SERVO_OPEN_
+#define SERVO_OPEN_DEG       
 
 
 
