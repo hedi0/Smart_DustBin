@@ -169,7 +169,7 @@ All settings are at the top of `smart_dustbin.ino`. Edit these to match your bui
 
 ## 🚀 Usage
 
-Once powered on, the sy
+Once powered on, the system runs fully
 
 
 
