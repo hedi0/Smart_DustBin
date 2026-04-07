@@ -158,7 +158,7 @@ All settings are at the top of `smart_dustbin.ino`. Edit these to match your bui
 
 // ── Servo Angles ──────────────────────────────────────
 #define SERVO_OPEN_DEG       90      // Angle when lid is OPEN
-#define SERVO_CLOSED_DEG     0       // Angle
+#define SERVO_CLOSED_DEG     0       // Angle when lid i
 
 
 
