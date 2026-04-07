@@ -162,7 +162,7 @@ All settings are at the top of `smart_dustbin.ino`. Edit these to match your bui
 
 // ── Battery Thresholds ────────────────────────────────
 #define BATT_LOW_V           3.3f    // LED warning turns on below this voltage
-#define BATT_CRITICAL_V      3.0f    // Sys
+#define BATT_CRITICAL_V      3.0f    // System sleeps p
 
 
 
