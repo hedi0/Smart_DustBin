@@ -161,7 +161,7 @@ All settings are at the top of `smart_dustbin.ino`. Edit these to match your bui
 #define SERVO_CLOSED_DEG     0       // Angle when lid is CLOSED
 
 // ── Battery Thresholds ────────────────────────────────
-#define BATT_
+#define BATT_LOW_V           3.3f    
 
 
 
