@@ -172,7 +172,7 @@ All settings are at the top of `smart_dustbin.ino`. Edit these to match your bui
 Once powered on, the system runs fully automatically. Here's the complete flow:
 
 ```
-┌─────
+┌───────────────────────
 
 
 
