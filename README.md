@@ -186,7 +186,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
                      ▼
 ┌─────────────────────────────────────────────┐
 │           CHECK BATTERY VOLTAGE             │
-│  Bel
+│  Below 3.0V? →
 
 
 
