@@ -181,7 +181,8 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 ┌─────────────────────────────────────────────┐
 │              DEEP SLEEP                     │
 │  Current draw: ~1–5 mA                      │
-└────────────────────┬────────────────────
+└────────────────────┬────────────────────────┘
+      
 
 
 
