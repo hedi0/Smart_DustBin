@@ -184,7 +184,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 └────────────────────┬────────────────────────┘
                      │  ← Watchdog wakes MCU every ~1s
                      ▼
-┌──────────────────────────
+┌────────────────────────────────────────
 
 
 
