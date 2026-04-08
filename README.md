@@ -176,7 +176,8 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 │              POWER ON / BOOT                │
 │  Initialize pins, servo, watchdog timer     │
 └────────────────────┬────────────────────────┘
-        
+                     │
+ 
 
 
 
