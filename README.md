@@ -183,7 +183,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 │  Current draw: ~1–5 mA                      │
 └────────────────────┬────────────────────────┘
                      │  ← Watchdog wakes MCU every ~1s
-  
+                     ▼
 
 
 
