@@ -199,7 +199,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
                      │  ← Object detected ≤ 15 cm
                      ▼
 ┌─────────────────────────────────────────────┐
-│            OPEN 
+│            OPEN LID          
 
 
 
