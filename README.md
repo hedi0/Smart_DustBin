@@ -197,7 +197,8 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 │  Nothing within 15 cm? → Back to sleep     │
 └────────────────────┬───────────────────────┘
                      │  ← Object detected ≤ 15 cm
-          
+                     ▼
+┌─
 
 
 
