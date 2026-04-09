@@ -201,7 +201,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 ┌─────────────────────────────────────────────┐
 │            OPEN LID                         │
 │  Servo rotates to SERVO_OPEN_DEG            │
-│  Wait LID
+│  Wait LID_CLOSE_DEL
 
 
 
