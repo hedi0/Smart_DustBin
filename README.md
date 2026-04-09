@@ -195,7 +195,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 │           MEASURE DISTANCE                 │
 │  Fire ultrasonic pulse → read echo time    │
 │  Nothing within 15 cm? → Back to sleep     │
-└────────
+└────────────────────┬
 
 
 
