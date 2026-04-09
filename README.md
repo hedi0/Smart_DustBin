@@ -193,6 +193,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
                      ▼
 ┌────────────────────────────────────────────┐
 │           MEASURE DISTANCE                 │
+│  Fire ultrason
 
 
 
