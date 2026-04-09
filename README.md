@@ -190,7 +190,8 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 │  Below 3.3V? → LED blinks (low warning)     │
 └────────────────────┬────────────────────────┘
                      │
- 
+                     ▼
+
 
 
 
