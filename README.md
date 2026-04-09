@@ -196,7 +196,8 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 │  Fire ultrasonic pulse → read echo time    │
 │  Nothing within 15 cm? → Back to sleep     │
 └────────────────────┬───────────────────────┘
-                     │  ← Object detected ≤ 15 
+                     │  ← Object detected ≤ 15 cm
+          
 
 
 
