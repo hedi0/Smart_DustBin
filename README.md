@@ -187,7 +187,8 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 ┌─────────────────────────────────────────────┐
 │           CHECK BATTERY VOLTAGE             │
 │  Below 3.0V? → Permanent sleep (LED solid)  │
-│  Below 3.3V? → LED blinks (low warning)   
+│  Below 3.3V? → LED blinks (low warning)     │
+└────
 
 
 
