@@ -214,7 +214,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 |-----------|---------|
 | Off | Normal — system sleeping or operating fine |
 | Slow blink | Battery low — below 3.3V, charge soon |
-| Solid on | Critical — b
+| Solid on | Critical — battery 
 
 
 
