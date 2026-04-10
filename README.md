@@ -213,7 +213,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 | LED State | Meaning |
 |-----------|---------|
 | Off | Normal — system sleeping or operating fine |
-| Slow blink | Battery low — below 3.3V, 
+| Slow blink | Battery low — below 3.3V, charge 
 
 
 
