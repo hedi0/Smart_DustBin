@@ -211,7 +211,8 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 ### LED Status Guide
 
 | LED State | Meaning |
-|-----------|------
+|-----------|---------|
+| Off |
 
 
 
