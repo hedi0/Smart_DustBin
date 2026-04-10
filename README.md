@@ -205,7 +205,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 │  Servo rotates to SERVO_CLOSED_DEG          │
 └────────────────────┬────────────────────────┘
                      │
-                     └────────────
+                     └──────────────► Back to Dee
 
 
 
