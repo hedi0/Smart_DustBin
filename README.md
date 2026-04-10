@@ -212,7 +212,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 
 | LED State | Meaning |
 |-----------|---------|
-| Off | Normal — system sleeping or operati
+| Off | Normal — system sleeping or operating fine
 
 
 
