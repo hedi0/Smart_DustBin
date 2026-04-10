@@ -204,7 +204,8 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 │  Wait LID_CLOSE_DELAY_MS (default 3s)       │
 │  Servo rotates to SERVO_CLOSED_DEG          │
 └────────────────────┬────────────────────────┘
-                
+                     │
+           
 
 
 
