@@ -214,7 +214,11 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 |-----------|---------|
 | Off | Normal — system sleeping or operating fine |
 | Slow blink | Battery low — below 3.3V, charge soon |
-| Solid on | Critical — battery below 3.0V, system halted
+| Solid on | Critical — battery below 3.0V, system halted |
+
+---
+
+## 🔋 Po
 
 
 
