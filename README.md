@@ -224,7 +224,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 
 | Mode | Current |
 |------|---------|
-| Servo movin
+| Servo moving | 200 – 5
 
 
 
