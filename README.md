@@ -208,7 +208,9 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
                      └──────────────► Back to Deep Sleep
 ```
 
-### LED Stat
+### LED Status Guide
+
+| 
 
 
 
