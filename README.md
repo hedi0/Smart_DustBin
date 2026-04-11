@@ -228,7 +228,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 | MCU awake + sensing | 20 – 40 mA |
 | Deep sleep | ~1 – 5 mA |
 
-### Estimated Run
+### Estimated Runtime (25
 
 
 
