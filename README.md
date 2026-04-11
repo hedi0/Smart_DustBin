@@ -226,7 +226,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 |------|---------|
 | Servo moving | 200 – 500 mA (peak) |
 | MCU awake + sensing | 20 – 40 mA |
-| Deep slee
+| Deep sleep | ~1
 
 
 
