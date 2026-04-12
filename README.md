@@ -230,7 +230,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 
 ### Estimated Runtime (2500 mAh cell)
 
-| Configuration | Avg Current | App
+| Configuration | Avg Current | Approx. Li
 
 
 
