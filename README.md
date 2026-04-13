@@ -232,7 +232,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 
 | Configuration | Avg Current | Approx. Life |
 |---------------|-------------|--------------|
-| Default (1s wake cycle)
+| Default (1s wake cycle) | ~3 m
 
 
 
