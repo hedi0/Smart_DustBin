@@ -233,7 +233,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 | Configuration | Avg Current | Approx. Life |
 |---------------|-------------|--------------|
 | Default (1s wake cycle) | ~3 mA | ~35 days |
-| 4s w
+| 4s wake cyc
 
 
 
