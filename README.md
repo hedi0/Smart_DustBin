@@ -234,7 +234,9 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 |---------------|-------------|--------------|
 | Default (1s wake cycle) | ~3 mA | ~35 days |
 | 4s wake cycle | ~1.5 mA | ~70 days |
-| + MOSFET & transistor switches | ~0.8 mA | ~130 days
+| + MOSFET & transistor switches | ~0.8 mA | ~130 days |
+
+### Wan
 
 
 
