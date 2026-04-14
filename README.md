@@ -236,7 +236,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 | 4s wake cycle | ~1.5 mA | ~70 days |
 | + MOSFET & transistor switches | ~0.8 mA | ~130 days |
 
-### Want even longer battery
+### Want even longer battery life?
 
 
 
