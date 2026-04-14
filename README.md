@@ -238,6 +238,8 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 
 ### Want even longer battery life?
 
+- **Add
+
 
 
 
