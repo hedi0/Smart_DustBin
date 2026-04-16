@@ -241,7 +241,7 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 - **Add a MOSFET** to cut servo power between activations
 - **Switch the HC-SR04 via transistor** — only power it during measurement
 - **Disable Brown-Out Detection (BOD)** via fuse bits (~25 µA saved)
-- **Switch to 8 MH
+- **Switch to 8 MHz intern
 
 
 
