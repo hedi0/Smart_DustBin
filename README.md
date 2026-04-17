@@ -243,7 +243,9 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 - **Disable Brown-Out Detection (BOD)** via fuse bits (~25 µA saved)
 - **Switch to 8 MHz internal clock** — halves MCU power consumption
 
---
+---
+
+## 📁 Proj
 
 
 
