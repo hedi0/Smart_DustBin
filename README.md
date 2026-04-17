@@ -249,7 +249,8 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 
 ```
 Smart_DustBin/
-├── cod
+├── codes/
+│   └
 
 
 
