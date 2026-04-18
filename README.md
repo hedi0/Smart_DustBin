@@ -252,7 +252,7 @@ Smart_DustBin/
 ├── codes/
 │   └── smart_dustbin.ino    ← Main firmware (edit this)
 ├── images/                  ← Wiring diagrams and photos
-├── preview_exam
+├── preview_example.png
 
 
 
