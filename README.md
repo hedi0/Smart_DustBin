@@ -251,7 +251,8 @@ Once powered on, the system runs fully automatically. Here's the complete flow:
 Smart_DustBin/
 ├── codes/
 │   └── smart_dustbin.ino    ← Main firmware (edit this)
-├── images/                  ← Wiring diagrams and phot
+├── images/                  ← Wiring diagrams and photos
+├── prev
 
 
 
