@@ -255,7 +255,11 @@ Smart_DustBin/
 ├── preview_example.png      ← README hero image
 ├── LICENSE                  ← Apache-2.0
 └── README.md                ← This file
-``
+```
+
+---
+
+## 🐛 T
 
 
 
