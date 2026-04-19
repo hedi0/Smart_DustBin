@@ -253,7 +253,8 @@ Smart_DustBin/
 │   └── smart_dustbin.ino    ← Main firmware (edit this)
 ├── images/                  ← Wiring diagrams and photos
 ├── preview_example.png      ← README hero image
-├── LICENSE                  ← Apache-2
+├── LICENSE                  ← Apache-2.0
+└── R
 
 
 
