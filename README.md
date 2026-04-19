@@ -254,7 +254,8 @@ Smart_DustBin/
 ├── images/                  ← Wiring diagrams and photos
 ├── preview_example.png      ← README hero image
 ├── LICENSE                  ← Apache-2.0
-└── README.md                ← This 
+└── README.md                ← This file
+``
 
 
 
