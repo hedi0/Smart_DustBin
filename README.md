@@ -253,7 +253,7 @@ Smart_DustBin/
 │   └── smart_dustbin.ino    ← Main firmware (edit this)
 ├── images/                  ← Wiring diagrams and photos
 ├── preview_example.png      ← README hero image
-├── LICENSE                  ←
+├── LICENSE                  ← Apa
 
 
 
