@@ -259,7 +259,7 @@ Smart_DustBin/
 
 ---
 
-## 🐛 Troublesh
+## 🐛 Troubleshooting
 
 
 
