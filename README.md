@@ -261,7 +261,7 @@ Smart_DustBin/
 
 ## 🐛 Troubleshooting
 
-| Problem | Likel
+| Problem | Likely Cause |
 
 
 
