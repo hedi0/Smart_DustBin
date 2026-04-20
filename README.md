@@ -263,7 +263,7 @@ Smart_DustBin/
 
 | Problem | Likely Cause | Fix |
 |---------|--------------|-----|
-| Lid doesn't open |
+| Lid doesn't open | Wrong 
 
 
 
