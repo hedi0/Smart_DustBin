@@ -263,7 +263,7 @@ Smart_DustBin/
 
 | Problem | Likely Cause | Fix |
 |---------|--------------|-----|
-| Lid doesn't open | Wrong wiri
+| Lid doesn't open | Wrong wiring or dist
 
 
 
