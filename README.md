@@ -263,7 +263,8 @@ Smart_DustBin/
 
 | Problem | Likely Cause | Fix |
 |---------|--------------|-----|
-| Lid doesn't open | Wrong wiring or distance setting | Check D2/D3; reduce `DETECT_DISTANCE_CM`
+| Lid doesn't open | Wrong wiring or distance setting | Check D2/D3; reduce `DETECT_DISTANCE_CM` |
+| Ardu
 
 
 
