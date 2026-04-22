@@ -264,7 +264,7 @@ Smart_DustBin/
 | Problem | Likely Cause | Fix |
 |---------|--------------|-----|
 | Lid doesn't open | Wrong wiring or distance setting | Check D2/D3; reduce `DETECT_DISTANCE_CM` |
-| Arduino resets when moves | Voltage sag under motor load | Add 470µF cap; power servo f
+| Arduino resets when moves | Voltage sag under motor load | Add 470µF cap; power servo from sep
 
 
 
