@@ -265,7 +265,7 @@ Smart_DustBin/
 |---------|--------------|-----|
 | Lid doesn't open | Wrong wiring or distance setting | Check D2/D3; reduce `DETECT_DISTANCE_CM` |
 | Arduino resets when moves | Voltage sag under motor load | Add 470µF cap; power servo from separate 5V rail |
-| Distance readings are erratic | 
+| Distance readings are erratic | Interr
 
 
 
