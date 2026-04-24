@@ -267,7 +267,7 @@ Smart_DustBin/
 | Arduino resets when moves | Voltage sag under motor load | Add 470µF cap; power servo from separate 5V rail |
 | Distance readings are erratic | Interrupt conflict on D3 | Ensure no other library uses INT1 |
 | Battery LED always on | ADC calibration off | Measure actual voltage and adjust reference constant |
-| Servo jitters at rest |
+| Servo jitters at rest | PWM runn
 
 
 
