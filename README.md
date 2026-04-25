@@ -271,7 +271,9 @@ Smart_DustBin/
 | System never wakes up | Watchdog fuse issue | Verify WDTON fuse is unprogrammed |
 | Lid stays open too long / short | Delay setting | Adjust `LID_CLOSE_DELAY_MS` in config |
 
--
+---
+
+## 
 
 
 
