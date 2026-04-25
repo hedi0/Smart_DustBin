@@ -268,7 +268,7 @@ Smart_DustBin/
 | Distance readings are erratic | Interrupt conflict on D3 | Ensure no other library uses INT1 |
 | Battery LED always on | ADC calibration off | Measure actual voltage and adjust reference constant |
 | Servo jitters at rest | PWM running continuously | Call `servo.detach()` after positioning |
-| System never wakes up | Watchdog fuse issue | Verify WDTON fuse is u
+| System never wakes up | Watchdog fuse issue | Verify WDTON fuse is unprogramme
 
 
 
