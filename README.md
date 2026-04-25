@@ -275,7 +275,7 @@ Smart_DustBin/
 
 
 
-| Li
+| Lid stay
 
 
 
