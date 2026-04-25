@@ -269,12 +269,6 @@ Smart_DustBin/
 | Battery LED always on | ADC calibration off | Measure actual voltage and adjust reference constant |
 | Servo jitters at rest | PWM running continuously | Call `servo.detach()` after positioning |
 | System never wakes up | Watchdog fuse issue | Verify WDTON fuse is unprogrammed |
-
-
-
-
-
-
 | Lid stays open to
 
 
