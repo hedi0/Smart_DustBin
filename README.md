@@ -275,7 +275,7 @@ Smart_DustBin/
 
 
 
-| Lid stay
+| Lid stays open to
 
 
 
