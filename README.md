@@ -273,7 +273,9 @@ Smart_DustBin/
 
 ---
 
-## 🔄 F
+## 🔄 Future ideass
+
+- [ ] **So
 
 
 
