@@ -275,7 +275,7 @@ Smart_DustBin/
 
 ## 🔄 Future ideass
 
-- [ ] **Solar charg
+- [ ] **Solar charging** — 6V pan
 
 
 
