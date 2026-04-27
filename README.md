@@ -275,7 +275,7 @@ Smart_DustBin/
 
 ## 🔄 Future ideass
 
-- [ ] **So
+- [ ] **Solar charg
 
 
 
