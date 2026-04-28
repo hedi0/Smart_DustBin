@@ -275,7 +275,7 @@ Smart_DustBin/
 
 ## 🔄 Future ideass
 
-- [ ] **Solar charging** — 6V panel + TP4
+- [ ] **Solar charging** — 6V panel + TP4056 for
 
 
 
