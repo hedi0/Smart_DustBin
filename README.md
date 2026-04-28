@@ -276,7 +276,7 @@ Smart_DustBin/
 ## 🔄 Future ideass
 
 - [ ] **Solar charging** — 6V panel + TP4056 for off-grid use
-- [ ] **ESP3
+- [ ] **ESP32 port** — W
 
 
 
