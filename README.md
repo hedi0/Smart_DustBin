@@ -276,9 +276,7 @@ Smart_DustBin/
 ## 🔄 Future ideass
 
 - [ ] **Solar charging** — 6V panel + TP4056 for off-grid use
-- [ ] **ESP32 port** — Wi-Fi/MQTT telemetry for fill level and battery %
-      
-
+- [ ] **ESP32 port** — Wi-Fi/MQTT telemetry for fill level an
 
 
 
