@@ -279,7 +279,7 @@ Smart_DustBin/
 - [ ] **ESP32 port** — Wi-Fi/MQTT telemetry for fill level and battery %
 - [ ] **OLED display** — Show voltage and daily open count
 - [ ] **Odor / gas sensor** — MQ-135 to detect when bin needs emptying
-- [ ] **Fill-leve
+- [ ] **Fill-level sensor
 
 
 
