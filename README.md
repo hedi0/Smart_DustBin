@@ -278,7 +278,7 @@ Smart_DustBin/
 - [ ] **Solar charging** — 6V panel + TP4056 for off-grid use
 - [ ] **ESP32 port** — Wi-Fi/MQTT telemetry for fill level and battery %
 - [ ] **OLED display** — Show voltage and daily open count
-- [ ] **Odo
+- [ ] **Odor / gas
 
 
 
