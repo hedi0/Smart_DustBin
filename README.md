@@ -280,7 +280,7 @@ Smart_DustBin/
 - [ ] **OLED display** — Show voltage and daily open count
 - [ ] **Odor / gas sensor** — MQ-135 to detect when bin needs emptying
 - [ ] **Fill-level sensor** — Second ultrasonic inside the bin
-- [ ] **OTA updates** — Wire
+- [ ] **OTA updates** — Wireless fir
 
 
 
