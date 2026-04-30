@@ -280,7 +280,11 @@ Smart_DustBin/
 - [ ] **OLED display** — Show voltage and daily open count
 - [ ] **Odor / gas sensor** — MQ-135 to detect when bin needs emptying
 - [ ] **Fill-level sensor** — Second ultrasonic inside the bin
-- [ ] **OTA updates** — Wireless firmware upgrades on the ESP32 versio
+- [ ] **OTA updates** — Wireless firmware upgrades on the ESP32 version
+
+---
+
+## ⚠️ S
 
 
 
