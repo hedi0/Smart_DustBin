@@ -284,7 +284,7 @@ Smart_DustBin/
 
 ---
 
-## ⚠️ S
+## ⚠️ Safety No
 
 
 
