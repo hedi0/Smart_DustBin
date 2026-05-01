@@ -286,7 +286,7 @@ Smart_DustBin/
 
 ## ⚠️ Safety Notes
 
-> Read thes
+> Read these befor
 
 
 
