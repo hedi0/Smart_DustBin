@@ -288,7 +288,7 @@ Smart_DustBin/
 
 > Read these before building.
 
-- **Never discharge a Li-io
+- **Never discharge a Li-ion cell be
 
 
 
