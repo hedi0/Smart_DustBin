@@ -288,7 +288,7 @@ Smart_DustBin/
 
 > Read these before building.
 
-- **Never disc
+- **Never discharge a
 
 
 
