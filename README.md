@@ -288,7 +288,7 @@ Smart_DustBin/
 
 > Read these before building.
 
-- **Never discharge a Li-ion cell below 3.0
+- **Never discharge a Li-ion cell below 3.0V** — c
 
 
 
