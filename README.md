@@ -286,7 +286,9 @@ Smart_DustBin/
 
 ## ⚠️ Safety Notes
 
-> Read these before build
+> Read these before building.
+
+- **Ne
 
 
 
