@@ -288,7 +288,8 @@ Smart_DustBin/
 
 > Read these before building.
 
-- **Never discharge a Li-ion cell below 3.0V** — causes permanent damage and safe
+- **Never discharge a Li-ion cell below 3.0V** — causes permanent damage and safe risk
+- **A
 
 
 
