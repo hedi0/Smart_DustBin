@@ -290,7 +290,7 @@ Smart_DustBin/
 
 - **Never discharge a Li-ion cell below 3.0V** — causes permanent damage and safety risk
 - **Always use a TP4056 with protection circuit** — bare modules have no overcharge/shot protection
-- **En
+- **Ensure comm
 
 
 
