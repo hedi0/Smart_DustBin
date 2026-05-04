@@ -291,7 +291,7 @@ Smart_DustBin/
 - **Never discharge a Li-ion cell below 3.0V** — causes permanent damage and safety risk
 - **Always use a TP4056 with protection circuit** — bare modules have no overcharge/shot protection
 - **Ensure common ground** between all components — floating grounds cause erratic behavior
-- **Add the 470µF capacitor** — servo inrush current can crash or reset the Ard
+- **Add the 470µF capacitor** — servo inrush current can crash or reset the Arduino with
 
 
 
