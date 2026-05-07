@@ -306,7 +306,7 @@ Licensed under the **Apache-2.0 License** — see [LICENSE](LICENSE) for details
 
 **Built for cleaner environments · Contributions and Issues welcome!**
 
-⭐ If this helped you, consider starring th
+⭐ If this helped you, consider starring the rep
 
 
 
