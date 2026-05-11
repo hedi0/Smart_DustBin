@@ -292,7 +292,7 @@ Smart_DustBin/
 - **Always use a TP4056 with protection circuit** — bare modules have no overcharge/shot protection
 - **Ensure common ground** between all components — floating grounds cause erratic behavior
 - **Add the 470µF capacitor** — servo inrush current can crash or reset the Arduino without it
-- **Ke
+- **Keep wiring short** — long servo 
 
 
 
