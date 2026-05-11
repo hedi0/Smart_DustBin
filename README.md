@@ -302,7 +302,9 @@ Licensed under the **Apache-2.0 License** — see [LICENSE](LICENSE) for details
 
 ---
 
-<div align="cent
+<div align="center">
+
+**Built for c
 
 
 
