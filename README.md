@@ -296,7 +296,12 @@ Smart_DustBin/
 
 ---
 
-## 📄 L
+## 📄 License
+ · Contributions and Issues welcome!**
+
+⭐ If this helped you, consider starring the repo!
+
+</div>
 
 
 
