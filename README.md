@@ -297,7 +297,14 @@ Smart_DustBin/
 ---
 
 ## 📄 License
- · Contributions and Issues welcome!**
+
+Licensed under the **Apache-2.0 License** — see [LICENSE](LICENSE) for details.
+
+---
+
+<div align="center">
+
+**Built for cleaner environments · Contributions and Issues welcome!**
 
 ⭐ If this helped you, consider starring the repo!
 
