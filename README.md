@@ -289,7 +289,11 @@ Smart_DustBin/
 > Read these before building.
 
 - **Never discharge a Li-ion cell below 3.0V** — causes permanent damage and safety risk
-- **Always use a TP4056 w
+- **Always use a TP4056 with protection circuit** — bare modules have no overcharge/shot protection
+- **Ensure common ground** between all components 
+⭐ If this helped you,consider starring the repo!
+
+</div>
 
 
 
