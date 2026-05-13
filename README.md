@@ -296,8 +296,9 @@ Smart_DustBin/
 
 ---
 
-## 📄 Lic
+## 📄 License
 
+Licensed under the **Apa
 
 
 
