@@ -298,7 +298,8 @@ Smart_DustBin/
 
 ## 📄 License
 
-Licensed under the **Apa
+Licensed under the **Apache-2.0 Licen
+
 
 
 
