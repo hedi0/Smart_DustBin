@@ -304,11 +304,7 @@ Licensed under the **Apache-2.0 License** — see [LICENSE](LICENSE) for details
 
 <div align="center">
 
-**Built for cleaner envi
-
-</div>
-
-
+**Built for cleaner environments · Contributions and Is
 
 
 
