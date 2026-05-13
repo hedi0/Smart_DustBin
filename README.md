@@ -284,7 +284,11 @@ Smart_DustBin/
 
 ---
 
-## ⚠️ Safety No
+## ⚠️ Safety Notes
+
+> Read these before building.
+
+- **Never discharge a 
 
 
 
