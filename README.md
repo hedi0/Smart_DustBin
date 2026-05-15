@@ -296,7 +296,10 @@ Smart_DustBin/
 
 ---
 
-## 📄 Lic
+## 📄 License
+
+Licensed under the **Apache-2.0 License** — se
+
 
 
 
