@@ -302,8 +302,7 @@ Licensed under the **Apache-2.0 License** — see [LICENSE](LICENSE) for details
 
 ---
 
-<div align="cente
-**B
+<div align="
 
 
 
