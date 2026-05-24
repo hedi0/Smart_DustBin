@@ -297,8 +297,7 @@ Smart_DustBin/
 ---
 
 ## 📄 Licens
-Licensed undr the **Apache-2.0 LicenseeeIC
-
+Licensed undr the **Apache-2
 
 
 
