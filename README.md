@@ -297,7 +297,7 @@ Smart_DustBin/
 ---
 
 ## 📄 Licens
-Licensed
+
 
 
 
