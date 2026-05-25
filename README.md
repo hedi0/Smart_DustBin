@@ -297,11 +297,7 @@ Smart_DustBin/
 
 - **Ensure common ground** between all componfloating grounds cause erratic behavior
 - **Add the 470µF capacitor** — se crash or reset the Arduino without it
-- **Keep wiring short** — long servo leads pinoise and affect ADC readi
-*
-*
-
-
+- **Keep wiring short** — long servo leads pinoise and affect AD
 
 
 
