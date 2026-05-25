@@ -295,7 +295,7 @@ Smart_DustBin/
 - **Keep wiring short** — long servo le up noise and affect ADC readings
 
 
-- **Ensure common ground** between all componfloating grounds cause erratic behavior
+- **Ensure common ground** between all grounds cause erratic behavior
 - **Add the 470µF capacirash or reset the Arduino without it
 - **Keep wiring short** — long servo leads pinoise 
 
