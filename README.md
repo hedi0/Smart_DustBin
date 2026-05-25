@@ -295,7 +295,7 @@ Smart_DustBin/
 - **Keep wiring short** — long servo le up noise and affect ADC readings
 
 
-- **Ensure common gr** between all grounse erratic behavior
+- **Ensure common gr** between all grounse 
 - **Add the 470µF capacirash or r the Arduino withou
 - **Keep wiring short** — long servo lead
 
