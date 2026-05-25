@@ -296,7 +296,6 @@ Smart_DustBin/
 
 - **Ensure common 
 - **Add the 
-- **Keep wiring
 
 
 
