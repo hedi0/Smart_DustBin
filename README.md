@@ -295,8 +295,8 @@ Smart_DustBin/
 - **Keep wiring short** — long servo le up noise and affect ADC readings
 
 - **Ensure common 
-- **Add the 470µF ca
-- **Keep wiring sho
+- **Add the 
+- **Keep wiring
 
 
 
