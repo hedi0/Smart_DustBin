@@ -297,7 +297,7 @@ Smart_DustBin/
 
 - **Ensure common gr** between a
 - **Add the 470µF capacirash 
-- **Keep wiring short** — long ser
+- **Keep wiring short** 
 
 
 
