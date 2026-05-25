@@ -296,8 +296,8 @@ Smart_DustBin/
 
 
 - **Ensure common gr** between all groun
-- **Add the 470µF capacirash or r the Ardui
-- **Keep wiring short** — long servo lead
+- **Add the 470µF capacirash or rdui
+- **Keep wiring short** — long ser
 
 
 
