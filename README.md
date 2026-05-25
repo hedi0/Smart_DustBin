@@ -297,8 +297,7 @@ Smart_DustBin/
 
 - **Ensure common gr** between all grounse erratic behavior
 - **Add the 470µF capacirash or r the Arduino withou
-- **Keep wiring short** — long servo leads pinoise 
-
+- **Keep wiring short** — long servo lead
 
 
 
