@@ -296,9 +296,9 @@ Smart_DustBin/
 
 
 
-reless firmware upgrades on the ESP32 versionage sag under motor load | Add 470µF cap; power servo from sete 5V rail |
+reless firmware upgrades on th versionage sag under motoad | Add 470µF cap; power servo from sete 5V rail |
 | Distance readings are erratic | Interrupt conflict on D3 | Ensure no othelib
-| Battery LED always on | ADCon oasujust reference constant |
+| Battery LED always on | Aon oasujust reference constant |
 | Servo jitters at rest | PWM runnnuslll.de positi
 | System never wakes up | Watchdog fuse 
 
