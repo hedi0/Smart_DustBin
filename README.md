@@ -296,8 +296,8 @@ Smart_DustBin/
 
 
 
-reless firmware upgrades on th  sag undmotoad | Add 470µF cap; power servo from sete 5V rail |
-| Distance readings are erratic | Interrupt conflict on D3 | Ensur no othelib
+reless firmware upgrdes on th  samotoad | Add 470µF cap; power servo from sete 5V rail |
+| Distance readings are etic | nterrupt confct on D3 | Ensur no othelib
 | Battery LED always on | Aonsujt reference constant |
 | Servo jitters at rest | PWM runnnuslll.de pos
 | System never wakes up | Watchdog fuse 
