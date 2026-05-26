@@ -298,9 +298,9 @@ Smart_DustBin/
 
 reless firmware upgrades on the ESP32 versionage sag under motor load | Add 470µF cap; power servo from separate 5V rail |
 | Distance readings are erratic | Interrupt conflict on D3 | Ensure no other library uses INT1 |
-| Battery LED always on | ADC calibration off | Measure actual voltage and adjust reference constant |
+| Battery LED always on | ADC ation off | Measure actualage and adjust reference constant |
 | Servo jitters at rest | PWM running continuously | Call `servo.detater positioning |
-| System never wakes up | Watchdog fuse issue |
+| System never wakes up | Watchdog fuse issue
 
 
 
