@@ -294,8 +294,6 @@ Smart_DustBin/
 - **Add the 470µF capacitor** — servo inrush current can crash or reset the Arduino without it
 - **Keep wiring short** — long servo le up noise and affect ADC readings
 
-- **En
-
 
 
 
