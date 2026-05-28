@@ -296,8 +296,8 @@ Smart_DustBin/
 
 
 
-reless firmware upgrdes on th otoad | Add power servsete 5V rail |
-| Distances are etic |ct o | Enshelib
+reless firmware upgrdes on th otoad | Add povsete 5V rail |
+| Distances are etic |ct o | En
 | Battery LED 
 | Servo j at res | nnndes
 | Systneveesp |
