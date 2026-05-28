@@ -296,8 +296,8 @@ Smart_DustBin/
 
 reless firmpden th a5V rai
 | Distancreic |ct o |
-| Battery LED 
-| Servo j at res | n
+| Battery LE
+| Servo j 
 | Systneveesp
 
 
