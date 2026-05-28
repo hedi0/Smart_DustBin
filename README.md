@@ -297,7 +297,7 @@ Smart_DustBin/
 
 
 reless firmware upgrdes on th otoad | Add power servsete 5V rail |
-| Distance readings are etic | nterpt confct o | Enshelib
+| Distances are etic |ct o | Enshelib
 | Battery LED alw
 | Servo j at res | PWM runnnl.de pos
 | System never wakes up | W
