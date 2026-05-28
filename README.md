@@ -298,7 +298,7 @@ Smart_DustBin/
 
 reless firmware upgrdes on th otoad | Add 470µF cap; power servsete 5V rail |
 | Distance readings are etic | nterpt confct o | Enshelib
-| Battery LED always on | Aonsujt reference constant |
+| Battery LED always on | Aonsujt referent |
 | Servo jitters at rest | PWM runnnuslll.de pos
 | System never wakes up | Watc
 
