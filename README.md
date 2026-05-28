@@ -294,13 +294,11 @@ Smart_DustBin/
 - **Add the 470µF capacitor** — servo inrush current can crash or reset the Arduino without it
 - **Keep wiring short** — long servo le up noise and affect ADC readings
 
-
-
-reless firmware upgrdes on th otoad | Add povsete 5V rail |
+reless firmware upgrdes on th otoad | sete 5V rail |
 | Distances are etic |ct o | En
 | Battery LED 
-| Servo j at res | nnndes
-| Systneveesp |
+| Servo j at res | n
+| Systneveesp
 
 
 
