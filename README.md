@@ -301,7 +301,7 @@ Smart_DustBin/
 
 ts when moves | Voltage son off | Measure actual voltage and adjust reference constant |
 | Servo jitters at rest | PWM running continuously | Call `servo.detach()` after positioning |
-| System never wakes up | Watchdog fuse issue | Verify WDTON fuse is unprogrammed |
+| System never wakes up | Watchdog fuse issue | Verify is unprogrammed |
 | Lid stays open too long / short | ting | Adjust `LID_CLOSE_DELAY_MS` in config ag d | µF cap; power servo from separate 5V rail |
 | Distance readings are erratic | Interrup
 
