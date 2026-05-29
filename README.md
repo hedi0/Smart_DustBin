@@ -297,9 +297,7 @@ Smart_DustBin/
 reless firmpden th a5
 | Distae
 | Bat
-| Servo
-| Sys
-
+| S
 
 
 
