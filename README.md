@@ -295,9 +295,7 @@ Smart_DustBin/
 - **Keep wiring short** — long servo le up noise and affect ADC readings
 
 reless firmpden th a5
-| Distae
-| Bat
-| S
+| Dista
 
 
 
