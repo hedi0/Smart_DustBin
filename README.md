@@ -302,7 +302,7 @@ Smart_DustBin/
 ts when moves | Voltage son off | Measure actual voltage and adjust reference constant |
 | Servo jitters at rest | PWM running continuously | Call `servo.detach()` after positioni |
 | System never wakes up | Watchdog fuse issue | Verify is unprogrammed
-| Lid stays open too longng | Adjust `LID_CLOSE_DELAY_MS` in config ag d | µF cap; power s
+| Lid stays open too longng | Adjust `LID_CLOSE_DELAY_M d | µF cap; power s
 | Distance readings are erratic | Inte
 
 
