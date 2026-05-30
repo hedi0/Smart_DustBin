@@ -298,7 +298,7 @@ Smart_DustBin/
 
 
 ts wheHands-free lid** — opens when you're wit needed
-- **Auto-close** — lid closes after 3 secdetection
+- **Auto-close** — lid closes after 3 
 - **Deep sleep mode** — dr
 
 
