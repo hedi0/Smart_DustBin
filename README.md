@@ -298,8 +298,7 @@ Smart_DustBin/
 
 
 ts when moves | Voltage sooff | Measure actu
-| Servo jitters unning conti
-
+| Servo jitt
 
 
 
