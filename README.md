@@ -299,7 +299,7 @@ Smart_DustBin/
 
 ts wheHands-free lid** — opens when you're within 15 cm, no touching needed
 - **Auto-close** — lid closes after 3 seconds of no detection
-- **Deep sleep mode** — draws only ~1–5 mA when idle
+- **Deep sleep mode** — draws only ~1–
 
 
 
