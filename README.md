@@ -299,9 +299,7 @@ Smart_DustBin/
 
 ts when moves | Voltage sooff | Measure actu
 | Servo jitters unning continuously |et
-| System never wakes up
-
-
+| System 
 
 
 
