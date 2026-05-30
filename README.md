@@ -298,7 +298,7 @@ Smart_DustBin/
 
 
 ts when moves | Voltage sooff | Measure actual voltage and adj
-| Servo jitters unning continuously | Callervo.det
+| Servo jitters unning continuously |et
 | System never wakes up | Watcuse iss | 
 | Lid stays open t
 
