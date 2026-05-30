@@ -297,9 +297,9 @@ Smart_DustBin/
 
 
 
-ts when moves | Voltage sooff | Measure actual voltage and adj
+ts when moves | Voltage sooff | Measure actu
 | Servo jitters unning continuously |et
-| System never wakes up | Watcuse
+| System never wakes up
 
 
 
