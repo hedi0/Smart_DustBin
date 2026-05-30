@@ -297,7 +297,7 @@ Smart_DustBin/
 
 
 
-ts when moves | Voltage soo
+ts when 
 
 
 
