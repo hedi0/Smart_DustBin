@@ -300,7 +300,7 @@ Smart_DustBin/
 ts when moves | Voltage sooff | Measure actual voltage and adj
 | Servo jitters unning continuously | Callervo.det
 | System never wakes up | Watcuse iss | 
-| Lid stays open too longng | A_CLO
+| Lid stays open t
 
 
 
