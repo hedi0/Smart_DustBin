@@ -297,10 +297,25 @@ Smart_DustBin/
 
 
 
-
-
-ts when moves | Voltage sooff | Measure actual voltage and adjus constant |
+ts when moves | Voltage sooff | Measure actual voltage and adj
 | Servo jitters unning continuously | Callervo.det
 | System never wakes up | Watcuse iss | 
 | Lid stays open too longng | AdjustID_CLOSE_DELAY_M d | µF cap; power s
 | Dist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
