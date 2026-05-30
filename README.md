@@ -300,7 +300,7 @@ Smart_DustBin/
 
 
 ts when moves | Voltage sooff | Measure actual voltage and adjust reference constant |
-| Servo jitters at rest | PWrunning continuously | Callervo.det
+| Servo jitters unning continuously | Callervo.det
 | System never wakes up | Watcuse iss | Verifyn
 | Lid stays open too longng | AdjustID_CLOSE_DELAY_M d | µF cap; power s
 | Distance readings a
