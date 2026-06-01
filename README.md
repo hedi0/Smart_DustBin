@@ -296,8 +296,7 @@ Smart_DustBin/
 
 
 
-
-ts wheHands-free lid wh needed
+ts wheHands-free 
 - **Auto-clos
 - *
 
