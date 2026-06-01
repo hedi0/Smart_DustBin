@@ -299,7 +299,7 @@ Smart_DustBin/
 
 ts wheHands-free lid wh needed
 - **Auto-close** — lid 
-- **Deep slee
+- *
 
 
 
