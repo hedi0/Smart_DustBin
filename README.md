@@ -296,9 +296,7 @@ Smart_DustBin/
 
 
 
-ts wheHands-free 
-- **Auto-clos
-- *
+ts wheHand
 
 
 
