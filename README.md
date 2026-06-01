@@ -296,7 +296,6 @@ Smart_DustBin/
 
 
 
-ts wheHand
 
 
 
